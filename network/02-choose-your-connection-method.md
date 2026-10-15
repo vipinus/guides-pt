@@ -18,7 +18,7 @@ Uma conta LeoTun tem seis formas de conexão: Rede privada (Tailscale), Cisco (A
 - Banda larga que cai com frequência, sinal de Wi‑Fi fraco: Proxy Web. Ele funciona por pedido, sem conexão permanente, então por definição não há conexão para cair.
 - Banda larga de condomínios antigos, dados móveis, muita perda de pacotes: Hiddify. O protocolo dele foi feito para aguentar perda de pacotes e dá a melhor velocidade nesse tipo de rede.
 - O computador já está ligado a uma VPN da empresa: Proxy Web. Duas VPNs de aparelho inteiro rodando juntas brigam pelas configurações de rede; o Proxy Web cuida só do navegador, então um não atrapalha o outro.
-- China Mobile, Great Wall Broadband e outras bandas largas, ou trechos internacionais sempre instáveis: qualquer forma, escolhendo um ponto de entrada da região China. O cliente se conecta só a um endereço dentro da China e o trecho internacional fica por nossa conta, então ele não sofre com a interferência na fronteira.
+- China Mobile, Great Wall Broadband e outras bandas largas, ou trechos internacionais sempre instáveis: qualquer forma, escolhendo um ponto de entrada da região China. Costuma ser a opção mais estável nessas redes.
 
 ## Pelo objetivo: o que você quer fazer
 

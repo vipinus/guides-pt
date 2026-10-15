@@ -10,7 +10,7 @@ Com o mesmo serviço e o mesmo protocolo, a velocidade pode variar várias vezes
 |---|---|---|
 | China Unicom no norte | Japão, Coreia do Sul | A saída da Unicom para o Japão e a Coreia do Sul costuma ser a mais direta |
 | China Telecom no sul | Sudeste Asiático (Singapura), Austrália | A saída da Telecom para o sul é boa |
-| China Mobile, Great Wall Broadband e outras | Entrada na China | O cliente se conecta só a um endereço dentro da China e o trecho internacional fica por nossa conta, então ele não sofre com a interferência na fronteira |
+| China Mobile, Great Wall Broadband e outras | Entrada na China | Costuma ser a mais estável nessas redes |
 | Dados móveis | Varia conforme a operadora; teste separado da banda larga | No mesmo celular, a melhor região no Wi‑Fi e nos dados móveis muitas vezes é diferente |
 
 A lista de regiões da LeoTun mostra a carga atual de cada região com **luzes vermelha, amarela e verde**; entre várias entradas para o Japão, escolha a que está com luz verde.
