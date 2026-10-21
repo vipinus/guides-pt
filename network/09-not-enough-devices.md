@@ -22,7 +22,7 @@ Parentes ou amigos passando uns dias na sua casa, um tablet e um notebook a mais
 
 ## Quanto custa subir temporariamente: a conta
 
-Os três planos têm preços na proporção 1 : 2 : 4 (Individual US$ 4, Família US$ 8, Empresa US$ 16 por mês), então na troca o tempo restante é convertido nessa proporção e ninguém sai perdendo. Por exemplo: com 30 dias restantes no plano Família, passar temporariamente para o Empresa deixa 15 dias; depois de usar 3 dias, sobram 12, e voltando ao Família viram 24 dias. Comparado a ficar no Família o tempo todo (30 − 3 = 27 dias), são 3 dias a menos; ou seja, esses 3 dias foram cobrados pelo preço do Empresa, e o que você pagou a mais é só a diferença desses 3 dias.
+Os três planos têm preços na proporção 1 : 2 : 4 (Individual US$ 5, Família US$ 10, Empresa US$ 20 por mês), então na troca o tempo restante é convertido nessa proporção e ninguém sai perdendo. Por exemplo: com 30 dias restantes no plano Família, passar temporariamente para o Empresa deixa 15 dias; depois de usar 3 dias, sobram 12, e voltando ao Família viram 24 dias. Comparado a ficar no Família o tempo todo (30 − 3 = 27 dias), são 3 dias a menos; ou seja, esses 3 dias foram cobrados pelo preço do Empresa, e o que você pagou a mais é só a diferença desses 3 dias.
 
 Duas restrições: se você iniciou um pagamento nos últimos 30 minutos e não concluiu, a troca não passa; conclua ou abandone esse pagamento e espere meia hora antes de trocar. Na volta para o plano menor, se ainda houver mais aparelhos on-line do que o limite dele, o site pede que você desconecte os excedentes primeiro.
 
@@ -56,4 +56,4 @@ Se a casa tem cada vez mais aparelhos e cada pessoa da família precisa no próp
 Versão deste artigo no site: https://www.leotun.com/pt/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-09) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-09) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 24 horas de teste grátis; cada amigo convidado que pagar rende 20 dias do plano Individual para você e para ele, oferta sem data para acabar
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-09) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-09) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 4 horas de teste grátis; cada amigo convidado que pagar rende 20 dias do plano Individual para você e para ele, oferta sem data para acabar

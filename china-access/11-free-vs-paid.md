@@ -24,9 +24,9 @@ Um teste simples: se você ficaria irritado quando cai, está na hora de pagar.
 
 ## Quanto gastar
 
-O plano Individual da LeoTun custa 4 dólares por mês e inclui 24 regiões, 2 aparelhos on-line ao mesmo tempo e todas as formas de conexão (AnyConnect / OpenVPN / Hiddify / Proxy Web), e também funciona com roteador. Os planos Família e Empresa custam 2 e 4 vezes o Individual, respectivamente. Regiões, linhas e formas de conexão são exatamente iguais nos três planos, e a única diferença é o número de aparelhos on-line ao mesmo tempo (4 e 8).
+O plano Individual da LeoTun custa 5 dólares por mês e inclui 24 regiões, 2 aparelhos on-line ao mesmo tempo e todas as formas de conexão (AnyConnect / OpenVPN / Hiddify / Proxy Web), e também funciona com roteador. Os planos Família e Empresa custam 2 e 4 vezes o Individual, respectivamente. Regiões, linhas e formas de conexão são exatamente iguais nos três planos, e a única diferença é o número de aparelhos on-line ao mesmo tempo (4 e 8).
 
-Se você não quer comprar por mês, há dois caminhos: primeiro peça o teste grátis de 24 horas (sem cartão de crédito, uma vez por conta) e teste uma vez no pico da noite; ou pague por dia. Depois de recarregar créditos, o plano Individual consome 1 crédito por dia, e 25 créditos custam 8 dólares, o que dá cerca de 0,32 dólar por dia; comprar só alguns dias antes de uma viagem à China cai bem.
+Se você não quer comprar por mês, há dois caminhos: primeiro peça o teste grátis de 4 horas (sem cartão de crédito, uma vez por conta) e teste uma vez no pico da noite; ou pague por dia. Depois de recarregar créditos, o plano Individual consome 1 crédito por dia, e 25 créditos custam 8 dólares, o que dá cerca de 0,32 dólar por dia; comprar só alguns dias antes de uma viagem à China cai bem.
 
 Quando um amigo que você convidou se cadastra e faz o primeiro pagamento, a sua validade e a do amigo ganham 20 dias cada (base do plano Individual), sem limite de pessoas. É uma fonte permanente de tempo grátis.
 
@@ -46,7 +46,7 @@ Quando um amigo que você convidou se cadastra e faz o primeiro pagamento, a sua
 
 **O que compensa mais, pagar por dia ou por mês?** Se você usa 12 dias ou mais por mês, o mensal compensa mais; se usa alguns dias de vez em quando, o diário. Os créditos não expiram, e uma recarga dura bastante.
 
-**O teste pede cartão de crédito?** Não. Peça na página inicial depois de se cadastrar: 24 horas com todos os recursos, uma vez por conta.
+**O teste pede cartão de crédito?** Não. Peça na página inicial depois de se cadastrar: 4 horas com todos os recursos, uma vez por conta.
 
 **Paguei e continua caindo. O que eu faço?** Troque primeiro de região, depois de forma de conexão (os três protocolos podem ser usados na mesma conta); se ainda não resolver, leia o guia de solução de problemas ou fale com o suporte. Parte do motivo de pagar é ter alguém que se responsabilize.
 
@@ -60,4 +60,4 @@ Quando um amigo que você convidou se cadastra e faz o primeiro pagamento, a sua
 Versão deste artigo no site: https://www.leotun.com/pt/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=china-access-11) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=china-access-11) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 24 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=china-access-11) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=china-access-11) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 4 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, oferta permanente

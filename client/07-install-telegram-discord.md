@@ -25,4 +25,4 @@ O cadastro exige um número de celular que receba SMS. Depois você pode definir
 - Se não instalar ou fechar ao abrir, diga ao suporte a versão do sistema e o modelo do aparelho; na maioria dos casos, o modelo ou a versão não são compatíveis.
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=client-07) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=client-07) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 24 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=client-07) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=client-07) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 4 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, oferta permanente

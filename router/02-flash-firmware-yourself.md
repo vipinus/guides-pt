@@ -131,4 +131,4 @@ A maioria dos roteadores tem um modo de recuperação: tire da tomada, segure o 
 **Atualizações futuras exigem reinstalar?** As atualizações de rotina o roteador pega sozinho; você não precisa fazer nada. Só uma versão maior exige compilar de novo e instalar uma vez o arquivo sysupgrade, e o site avisa quando isso acontecer.
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-02) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-02) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 24 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, válido por tempo indeterminado
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-02) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-02) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 4 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, válido por tempo indeterminado

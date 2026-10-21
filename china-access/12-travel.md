@@ -29,7 +29,7 @@ Códigos de verificação por SMS que nunca chegam não têm nada a ver com a li
 
 ## Perguntas frequentes
 
-**A viagem é de poucos dias. Preciso comprar um mês?** Não. Peça o teste grátis de 24 horas, ou recarregue créditos e pague por dia: o plano Individual gasta 1 crédito por dia, cerca de US$ 0,32 por dia, o que combina bem com poucos dias.
+**A viagem é de poucos dias. Preciso comprar um mês?** Não. Peça o teste grátis de 4 horas, ou recarregue créditos e pague por dia: o plano Individual gasta 1 crédito por dia, cerca de US$ 0,32 por dia, o que combina bem com poucos dias.
 
 **O celular e o notebook podem conectar ao mesmo tempo?** Podem. Conforme o plano, uma conta tem 2 / 4 / 8 aparelhos on-line ao mesmo tempo (Individual / Família / Empresa), e o plano Individual dá exatamente um celular mais um notebook.
 
@@ -47,4 +47,4 @@ Códigos de verificação por SMS que nunca chegam não têm nada a ver com a li
 Versão deste artigo no site: https://www.leotun.com/pt/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=china-access-12) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=china-access-12) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 24 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=china-access-12) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=china-access-12) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 4 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, oferta permanente

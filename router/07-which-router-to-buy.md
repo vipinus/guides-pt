@@ -68,4 +68,4 @@ Quando não escolher: para casa grande, muitos aparelhos ou internet acima de 1 
 **O firmware tem porta dos fundos?** Ele é compilado a partir do OpenWrt, só com o acréscimo do componente que conecta à VPN e das regras de roteamento dividido; a VPN registra só a duração da conexão e o tráfego total, para cobrança, e não registra o que você acessa.
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-07) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-07) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 24 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-07) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-07) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 4 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, oferta permanente

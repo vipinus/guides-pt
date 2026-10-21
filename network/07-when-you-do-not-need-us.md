@@ -51,4 +51,4 @@ Os sinais típicos são um aviso de "Este conteúdo não está disponível na su
 Use primeiro o teste grátis para experimentar, um por um, os serviços que você quer usar. **Se resolver, fique; para outras necessidades, fale com o suporte**, e a gente ajuda a ver se existe um caminho adequado.
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-07) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-07) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 24 horas de teste grátis; cada amigo convidado que pagar rende 20 dias do plano Individual para você e para ele, oferta sem data para acabar
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-07) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-07) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 4 horas de teste grátis; cada amigo convidado que pagar rende 20 dias do plano Individual para você e para ele, oferta sem data para acabar

@@ -52,4 +52,4 @@ Com o "roteamento automático" ligado, serviços estrangeiros como o Dropbox pas
 **Dá para ficar sem o Hiddify?** Dá. Cisco, Rede privada e OpenVPN também assumem o computador inteiro, e o programa fica igualmente em "Sem proxy". A vantagem do Hiddify é o roteamento embutido e a velocidade melhor em redes com muita perda de pacotes.
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=client-10) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=client-10) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 24 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=client-10) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=client-10) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 4 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, oferta permanente

@@ -6,7 +6,7 @@ As contas da LeoTun têm três planos: Individual, Família e Empresa. A única 
 
 | | Individual | Família | Empresa |
 |---|---|---|---|
-| Preço mensal | US$ 4 | US$ 8 | US$ 16 |
+| Preço mensal | US$ 5 | US$ 10 | US$ 20 |
 | Multiplicador de preço | 1x | 2x | 4x |
 | Aparelhos conectados ao mesmo tempo | 2 | 4 | 8 |
 | Regiões / tráfego / formas de conexão | Todas / ilimitado / todas | Igual | Igual |
@@ -47,14 +47,14 @@ Os três planos seguem a mesma curva de desconto: 5% → 10% → 20%. Os planos 
 | Empresa | A partir de 3 meses | A partir de 6 meses | A partir de 12 meses |
 
 - Na compra por mês, o máximo de uma vez é 12 meses; na compra por ano, o máximo é 4 anos. Comprando por mês você recebe o mesmo desconto assim que atingir uma faixa, então não precisa escolher "por ano".
-- Alguns valores reais: Individual 12 meses US$ 45,60, 4 anos US$ 153,60; Família 6 meses US$ 45,60, 2 anos US$ 153,60; Empresa 3 meses US$ 45,60, 1 ano US$ 153,60.
+- Alguns valores reais: Individual 12 meses US$ 57, 4 anos US$ 192; Família 6 meses US$ 57, 2 anos US$ 192; Empresa 3 meses US$ 57, 1 ano US$ 192.
 - Se você renovar antes do vencimento, o tempo comprado é somado depois da data de vencimento original e não come os dias que ainda restam.
 
 ## Formas de pagamento
 
 | Forma | Observações |
 |---|---|
-| Alipay | Pagamento em yuan (RMB), convertido do preço em dólar pelo câmbio do momento |
+| Alipay | Pagamento em yuan (RMB), convertido do preço em dólar à taxa fixa de US$ 1 = ¥ 7 (mensal: Individual ¥ 35, Família ¥ 70, Empresa ¥ 140) |
 | PayPal | Pagamento em dólar; aceita cartões bancários emitidos na China |
 | Cartão de crédito | Visa, Mastercard, AMEX |
 | Créditos | Descontados dos créditos que você já recarregou; servem para comprar por dia |
@@ -81,11 +81,11 @@ Na China continental, depois que você clica em "Confirmar pagamento", a página
 
 | | Individual | Família | Empresa |
 |---|---|---|---|
-| Teste grátis | 24 horas | 12 horas | 6 horas |
+| Teste grátis | 4 horas | 2 horas | 1 hora |
 | Por primeiro pagamento de cada amigo convidado (você e o amigo ganham cada um) | +20 dias | +10 dias | +5 dias |
 | Serviço incluso na compra de roteador (modelos de 24 meses) | 24 meses | 12 meses | 6 meses |
 
-- Teste: depois de se cadastrar, peça na página inicial, sem cartão de crédito; um código de teste chega no seu e-mail e você digita os 6 dígitos para ativar; uma vez por conta. Conta nova fica no plano Individual, então normalmente você recebe 24 horas.
+- Teste: depois de se cadastrar, peça na página inicial, sem cartão de crédito; um código de teste chega no seu e-mail e você digita os 6 dígitos para ativar; uma vez por conta. Conta nova fica no plano Individual, então normalmente você recebe 4 horas.
 - Convite: depois que um amigo se cadastra pelo seu link de indicação e faz o primeiro pagamento, a validade da sua conta e a do amigo são estendidas na hora, sem limite de pessoas. Os dias de cada um são calculados pelo plano em que a pessoa está naquele momento.
 - Todos esses valores são convertidos na proporção inversa do multiplicador de preço, então o valor que você recebe é o mesmo em qualquer plano.
 
@@ -102,7 +102,7 @@ Na China continental, depois que você clica em "Confirmar pagamento", a página
 
 **Quem usa sozinho deve ficar no Família?** Não. Os três planos têm os mesmos recursos e o roteador também funciona; os 2 aparelhos simultâneos do Individual dão conta de um celular e um computador. Só pense no Família se você tem roteador em casa e ainda leva dois aparelhos com você.
 
-**Por que aparece um valor em yuan quando uso Alipay?** Os preços são definidos em dólar, e o Alipay converte para yuan pelo câmbio do momento do pagamento, então o valor em yuan varia um pouco com o câmbio.
+**Por que aparece um valor em yuan quando uso Alipay?** Os preços são definidos em dólar, e no Alipay a conversão para yuan usa a taxa fixa de US$ 1 = ¥ 7. O mensal fica em ¥ 35 (Individual), ¥ 70 (Família) e ¥ 140 (Empresa), e 25 créditos custam ¥ 56; o valor não varia com o câmbio.
 
 **Dá para usar créditos e assinatura mensal juntos?** Dá. Os créditos ficam guardados sem expirar; na renovação, escolher "Créditos" como forma de pagamento desconta do saldo, e escolher outra forma cobra em dinheiro normalmente.
 
@@ -117,4 +117,4 @@ Na China continental, depois que você clica em "Confirmar pagamento", a página
 - [Perguntas frequentes e contato com o suporte](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-08)
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-08) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-08) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 24 horas de teste grátis; cada amigo convidado que pagar rende 20 dias do plano Individual para você e para ele, oferta sem data para acabar
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-08) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-08) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 4 horas de teste grátis; cada amigo convidado que pagar rende 20 dias do plano Individual para você e para ele, oferta sem data para acabar

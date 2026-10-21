@@ -39,15 +39,15 @@ Ligue a TV e o computador de mesa no cabo sempre que puder. O Wi-Fi num prédio 
 
 ## Como saber antes de comprar
 
-Cadastre-se e pegue o teste grátis de 24 horas, sem cartão de crédito. Conecte no horário em que você mais usa, à noite por exemplo, e assista a um vídeo do YouTube em HD. O que você vê no celular ou no notebook é parecido com o que o roteador vai entregar. Decida sobre o roteador depois disso.
+Cadastre-se e pegue o teste grátis de 4 horas, sem cartão de crédito. Conecte no horário em que você mais usa, à noite por exemplo, e assista a um vídeo do YouTube em HD. O que você vê no celular ou no notebook é parecido com o que o roteador vai entregar. Decida sobre o roteador depois disso.
 
 ## Perguntas frequentes
 
-**Por que vocês não dizem logo quantos megabits?** Porque o número é diferente para cada pessoa e a cada hora. Garantimos YouTube sem travar, mesmo no horário de pico da noite, desde que a sua internet seja boa: China Unicom no norte ou China Telecom no sul. A exceção é a banda larga compartilhada de condomínio (a internet coletiva que alguns prédios na China revendem aos moradores). Pegar o teste grátis de 24 horas e testar você mesmo é a medida mais precisa.
+**Por que vocês não dizem logo quantos megabits?** Porque o número é diferente para cada pessoa e a cada hora. Garantimos YouTube sem travar, mesmo no horário de pico da noite, desde que a sua internet seja boa: China Unicom no norte ou China Telecom no sul. A exceção é a banda larga compartilhada de condomínio (a internet coletiva que alguns prédios na China revendem aos moradores). Pegar o teste grátis de 4 horas e testar você mesmo é a medida mais precisa.
 
 **O site de teste de velocidade mostra um número baixo, mas o vídeo toca bem?** É normal. Os servidores de teste de velocidade também têm momentos cheios e vazios, e dois testes com um minuto de diferença podem variar o dobro. Julgue pelo que você realmente quer fazer.
 
 **Um roteador mais caro deixa mais rápido?** Só se o roteador for o gargalo, por exemplo um modelo mini numa internet rápida. Quando o gargalo é o trecho internacional, um roteador novo não muda nada, e outra região muda.
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-11) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-11) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 24 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-11) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-11) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 4 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, oferta permanente

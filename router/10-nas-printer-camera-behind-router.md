@@ -45,4 +45,4 @@ Conecte-o ao Wi-Fi do roteador principal ou do modem, separado deste roteador. D
 **Posso deixar um aparelho fora da VPN para sempre?** Pode, ligue-o no roteador principal ou no modem. A página de administração também consegue passar o roteador inteiro para o modo "Direct" (direto), mas isso vale para todo mundo de uma vez.
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-10) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-10) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 24 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, válido por tempo indeterminado
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-10) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-10) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 4 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, válido por tempo indeterminado
