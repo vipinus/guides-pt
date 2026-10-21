@@ -75,7 +75,7 @@ Na China continental, depois que você clica em "Confirmar pagamento", a página
 - Recarga de créditos: 25 créditos por US$ 8, e você pode escolher de 25 a 150 créditos por vez. Os créditos nunca expiram.
 - Consumo diário: Individual 1 crédito por dia, Família 2 créditos, Empresa 4 créditos. Um dia no plano Individual sai por cerca de US$ 0,32.
 - Os créditos também renovam por mês (contado como 30 dias) ou por ano (contado como 365 dias), mas créditos não têm desconto.
-- Para quem serve: quem usa só uns dez dias por mês ou precisa só de alguns dias antes de voltar à China. Se você usa todo dia, a assinatura mensal compensa mais; no plano Individual, se você usa mais de 12 dias por mês, vale assinar por mês.
+- Para quem serve: quem usa só uns dez dias por mês ou precisa só de alguns dias antes de voltar à China. Se você usa todo dia, a assinatura mensal compensa mais; no plano Individual, se você usa mais de 15 dias por mês, vale assinar por mês.
 
 ## Teste grátis e bônus por convite: o mesmo valor em qualquer plano
 
@@ -93,7 +93,7 @@ Na China continental, depois que você clica em "Confirmar pagamento", a página
 
 - Nas 24 horas antes do vencimento você recebe um e-mail de aviso "Serviço prestes a vencer".
 - Depois do vencimento nenhuma forma de conexão funciona; os aparelhos da Rede privada ficam off-line em poucos minutos, e o QR code do Hiddify só pode ser gerado de novo depois da renovação.
-- Um ou dois dias depois do vencimento chega um e-mail "Serviço vencido"; para quem tem direito, ele traz um botão de resgate que não exige login e dá 24 / 12 / 6 horas conforme o plano; o link vale 7 dias e só pode ser clicado uma vez.
+- Um ou dois dias depois do vencimento chega um e-mail "Serviço vencido"; para quem tem direito, ele traz um botão de resgate que não exige login e dá 4 / 2 / 1 horas conforme o plano; o link vale 7 dias e só pode ser clicado uma vez.
 - Depois de renovar, o serviço volta na hora; cada aparelho da Rede privada só precisa clicar em login mais uma vez, e a configuração de saída continua salva.
 
 ## Perguntas frequentes
