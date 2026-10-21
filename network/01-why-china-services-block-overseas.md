@@ -28,4 +28,4 @@ Fazer com que o IP visto pelo servidor seja da China continental. Para isso, o s
 - [Checklist para quando não conecta, está lento ou cai](../troubleshooting/01-cannot-connect-slow-drops.md)
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-01) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-01) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 4 horas de teste grátis; cada amigo convidado que pagar rende 20 dias do plano Individual para você e para ele, oferta sem data para acabar
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-01) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-01) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 4 horas de teste grátis; cada amigo convidado que pagar rende 15 créditos (cerca de 15 dias do plano Individual) para você e para ele, oferta sem data para acabar

@@ -28,7 +28,7 @@ O plano Individual da LeoTun custa 5 dólares por mês e inclui 24 regiões, 2 a
 
 Se você não quer comprar por mês, há dois caminhos: primeiro peça o teste grátis de 4 horas (sem cartão de crédito, uma vez por conta) e teste uma vez no pico da noite; ou pague por dia. Depois de recarregar créditos, o plano Individual consome 1 crédito por dia, e 25 créditos custam 8 dólares, o que dá cerca de 0,32 dólar por dia; comprar só alguns dias antes de uma viagem à China cai bem.
 
-Quando um amigo que você convidou se cadastra e faz o primeiro pagamento, a sua validade e a do amigo ganham 20 dias cada (base do plano Individual), sem limite de pessoas. É uma fonte permanente de tempo grátis.
+Quando um amigo que você convidou se cadastra e faz o primeiro pagamento, você e o amigo ganham 15 créditos cada (cerca de 15 dias no plano Individual), sem limite de pessoas. É uma fonte permanente de tempo grátis.
 
 ## Como conferir antes de pagar
 
@@ -60,4 +60,4 @@ Quando um amigo que você convidou se cadastra e faz o primeiro pagamento, a sua
 Versão deste artigo no site: https://www.leotun.com/pt/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=china-access-11) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=china-access-11) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 4 horas de teste grátis; convide um amigo que pague e cada um ganha 20 dias do plano Individual, oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=china-access-11) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=china-access-11) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 4 horas de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), oferta permanente

@@ -9,7 +9,7 @@ Outros idiomas: [English](https://github.com/vipinus/guides-en) · [简体中文
 | Como conseguir | O que você ganha |
 |---|---|
 | Peça o teste grátis depois de se cadastrar | 4 horas com todos os recursos, sem cartão de crédito |
-| Convide um amigo que se cadastre e faça o primeiro pagamento | +20 dias na sua data de vencimento e +20 na do amigo (base do plano Individual; no Família são +10 dias e no Empresa +5, cada um pelo próprio plano), uma vez por amigo, sem limite de amigos |
+| Convide um amigo que se cadastre e faça o primeiro pagamento | 15 créditos para você e 15 para o amigo (cerca de 15 dias no plano Individual, que usa 1 crédito por dia), direto no saldo de créditos, uma vez por amigo, sem limite de amigos |
 
 Site: <https://www.leotun.com/pt?utm_source=github&utm_content=readme> · Fale com a gente: <https://www.leotun.com/pt/contact?utm_source=github&utm_content=readme>
 
