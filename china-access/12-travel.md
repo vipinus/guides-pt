@@ -29,7 +29,7 @@ Códigos de verificação por SMS que nunca chegam não têm nada a ver com a li
 
 ## Perguntas frequentes
 
-**A viagem é de poucos dias. Preciso comprar um mês?** Não. Peça o teste grátis de 4 horas, ou recarregue créditos e pague por dia: o plano Individual gasta 1 crédito por dia, cerca de US$ 0,32 por dia, o que combina bem com poucos dias.
+**A viagem é de poucos dias. Preciso comprar um mês?** Não. Peça o teste grátis de 4 horas, ou recarregue créditos e pague por dia: o plano Individual gasta 1 crédito por dia, cerca de US$ 0,4 por dia, o que combina bem com poucos dias.
 
 **O celular e o notebook podem conectar ao mesmo tempo?** Podem. Conforme o plano, uma conta tem 2 / 4 / 8 aparelhos on-line ao mesmo tempo (Individual / Família / Empresa), e o plano Individual dá exatamente um celular mais um notebook.
 

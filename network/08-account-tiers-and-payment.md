@@ -72,10 +72,10 @@ Na China continental, depois que você clica em "Confirmar pagamento", a página
 
 ## Créditos e pagamento por dia
 
-- Recarga de créditos: 25 créditos por US$ 8, e você pode escolher de 25 a 150 créditos por vez. Os créditos nunca expiram.
-- Consumo diário: Individual 1 crédito por dia, Família 2 créditos, Empresa 4 créditos. Um dia no plano Individual sai por cerca de US$ 0,32.
+- Recarga de créditos: 25 créditos por US$ 10, e você pode escolher de 25 a 150 créditos por vez. Os créditos nunca expiram.
+- Consumo diário: Individual 1 crédito por dia, Família 2 créditos, Empresa 4 créditos. Um dia no plano Individual sai por cerca de US$ 0,4.
 - Os créditos também renovam por mês (contado como 30 dias) ou por ano (contado como 365 dias), mas créditos não têm desconto.
-- Para quem serve: quem usa só uns dez dias por mês ou precisa só de alguns dias antes de voltar à China. Se você usa todo dia, a assinatura mensal compensa mais; no plano Individual, se você usa mais de 15 dias por mês, vale assinar por mês.
+- Para quem serve: quem usa só uns dez dias por mês ou precisa só de alguns dias antes de voltar à China. Se você usa todo dia, a assinatura mensal compensa mais; no plano Individual, se você usa mais de 12 dias por mês, vale assinar por mês.
 
 ## Teste grátis e bônus por convite em cada plano
 
@@ -102,7 +102,7 @@ Na China continental, depois que você clica em "Confirmar pagamento", a página
 
 **Quem usa sozinho deve ficar no Família?** Não. Os três planos têm os mesmos recursos e o roteador também funciona; os 2 aparelhos simultâneos do Individual dão conta de um celular e um computador. Só pense no Família se você tem roteador em casa e ainda leva dois aparelhos com você.
 
-**Por que aparece um valor em yuan quando uso Alipay?** Os preços são definidos em dólar, e no Alipay a conversão para yuan usa a taxa fixa de US$ 1 = ¥ 7. O mensal fica em ¥ 35 (Individual), ¥ 70 (Família) e ¥ 140 (Empresa), e 25 créditos custam ¥ 56; o valor não varia com o câmbio.
+**Por que aparece um valor em yuan quando uso Alipay?** Os preços são definidos em dólar, e no Alipay a conversão para yuan usa a taxa fixa de US$ 1 = ¥ 7. O mensal fica em ¥ 35 (Individual), ¥ 70 (Família) e ¥ 140 (Empresa), e 25 créditos custam ¥ 70; o valor não varia com o câmbio.
 
 **Dá para usar créditos e assinatura mensal juntos?** Dá. Os créditos ficam guardados sem expirar; na renovação, escolher "Créditos" como forma de pagamento desconta do saldo, e escolher outra forma cobra em dinheiro normalmente.
 

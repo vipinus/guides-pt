@@ -55,7 +55,7 @@ Cada rede tem a forma que funciona melhor nela, por isso você leva as seis: com
 
 **Por que não oferecem centenas de nós como os provedores de linhas?** Mais nós não significa mais estabilidade. Por trás de cada região nossa há várias máquinas, e ao conectar o sistema escolhe a menos ocupada, sem você precisar testar velocidade e escolher nós; quando um endereço é bloqueado ele é trocado automaticamente, e o endereço no seu aplicativo não precisa mudar.
 
-**Dá para ficar mais barato?** O plano Individual custa US$ 5 por mês, e quanto mais tempo você compra, maior o desconto (5% → 10% → 20%); por dia, com créditos, sai por cerca de US$ 0,32; quando um amigo convidado paga, cada um ganha 15 créditos (cerca de 15 dias no plano Individual), sem limite de pessoas. O cadastro ainda vem com teste grátis de 4 horas.
+**Dá para ficar mais barato?** O plano Individual custa US$ 5 por mês, e quanto mais tempo você compra, maior o desconto (5% → 10% → 20%); por dia, com créditos, sai por cerca de US$ 0,4; quando um amigo convidado paga, cada um ganha 15 créditos (cerca de 15 dias no plano Individual), sem limite de pessoas. O cadastro ainda vem com teste grátis de 4 horas.
 
 **Como posso conferir o que vocês dizem?** Pegue o teste de 4 horas, conecte na região China no horário de pico da noite e assista a um episódio no Tencent Video, conecte numa região de fora e abra o YouTube, e confira a localização registrada do IP e uma página de teste de IPv6. A lista de verificação está em "Como escolher uma VPN para a China".
 
