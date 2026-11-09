@@ -21,11 +21,12 @@ Cada operadora sai da China por um caminho diferente, e escolher a região certa
 
 **3. O próprio roteador**
 O tráfego precisa ser criptografado antes de entrar no túnel, e esse trabalho é do processador do roteador. Os modelos variam muito:
-- GL-MT300N-V2 (mini): portas de 100 Mbps. Serve para 1080p num celular ou notebook, mas não acompanha uma internet rápida
 - GL-MT3000 (portátil): dá conta de uma casa pequena. O primeiro roteador para a maioria das pessoas
+- GL-AXT1800 (portátil): portas gigabit. Para ligar dois aparelhos no cabo em viagem
+- GL-MT3600BE (portátil): Wi‑Fi 7 e duas portas 2.5G. O Wi‑Fi mais rápido que dá para carregar
 - GL-MT6000 (de mesa): porta 2.5G. Para muitos aparelhos, 4K e videogames
 
-Com internet rápida e uma casa com muitos aparelhos, escolha o MT3000 ou o MT6000, não o mini.
+Com internet rápida e uma casa com muitos aparelhos, escolha o MT3000 ou o MT6000.
 
 **4. Os últimos metros dentro de casa**
 Ligue a TV e o computador de mesa no cabo sempre que puder. O Wi-Fi num prédio cheio de apartamentos sofre muita interferência, e boa parte do "a linha está lenta" acaba estando dentro de casa.

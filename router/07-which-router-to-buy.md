@@ -26,30 +26,30 @@ Nos dois caminhos o firmware atualiza os componentes sozinho, sem precisar insta
 
 | Modelo | Tipo | Preço | Incluso | O que é | Ideal para |
 |---|---|---|---|---|---|
-| GL-MT300N-V2 | Mini | US$ 200 | 12 meses de serviço | Do tamanho da palma da mão, alimentado por USB (funciona com power bank); Wi‑Fi só em 2,4 GHz, portas de 100 Mbps | Uma pessoa viajando: cabo ou Wi‑Fi de hotel, um celular e um notebook navegando e assistindo em 1080p. Não serve como roteador principal de casa |
 | **GL-MT3000** | Portátil | US$ 300 | 2 anos do plano Individual | Wi‑Fi 6 dual band com porta 2.5G, um pouco maior que a palma da mão | O roteador principal de uma casa pequena (TV, TV box, vários celulares e computadores) e pequeno o bastante para ir na mochila |
+| GL-AXT1800 | Portátil | US$ 300 | 2 anos do plano Individual | Wi‑Fi 6 dual band, uma porta WAN gigabit e duas LAN gigabit, mais ou menos do tamanho do GL-MT3000 | Fora de casa, quando além do Wi‑Fi precisa ligar dois aparelhos no cabo ao mesmo tempo — um notebook e uma TV box, por exemplo |
+| GL-MT3600BE | Portátil | US$ 350 | 2 anos do plano Individual | Wi‑Fi 7 dual band com duas portas 2.5G, mais ou menos do tamanho do GL-MT3000 | Celular e notebook que já têm Wi‑Fi 7, para um Wi‑Fi mais rápido num aparelho que ainda dá para carregar |
 | GL-MT6000 | De mesa | US$ 400 | 2 anos do plano Individual | Duas portas 2.5G mais quatro portas gigabit, antenas externas, o maior poder de processamento | Casas grandes, muitos aparelhos (uma dúzia ou mais), internet acima de 1 gigabit, 4K e videogame, ou um escritório pequeno. Fica fixo como único roteador |
-| GL-XE3000 | Móvel | US$ 400 | 2 anos do plano Individual | 5G/4G e bateria embutidos; com um chip (SIM) vira uma rede independente, e também aceita cabo | Lugares sem internet fixa: motorhome, obra, feira, aluguel por temporada; ou como reserva da internet de casa |
 
 Os meses inclusos são no plano Individual; no Família viram metade e no Empresa um quarto, o mesmo valor em qualquer caso. Frete grátis para o mundo todo, normalmente em 3 a 14 dias, com devolução em até 30 dias.
 
 ### Escolha rápida por situação
 
-- Viaja sozinho, fica em hotel, orçamento apertado → GL-MT300N-V2
 - Apartamento ou casa pequena em que a TV e a TV box precisam de vídeo chinês ou de fora → GL-MT3000
 - Fica mais em casa, mas quer levar numa viagem de vez em quando → GL-MT3000
+- Portátil e com dois aparelhos para ligar no cabo ao mesmo tempo → GL-AXT1800
+- Celular e notebook novos com Wi‑Fi 7, e você quer o Wi‑Fi mais rápido num aparelho portátil → GL-MT3600BE
 - Casa grande, muitos aparelhos, internet acima de 1 gigabit ou escritório compartilhado → GL-MT6000
-- Sem internet fixa, ou passa a maior parte do tempo na estrada → GL-XE3000
 - Para configurar para pais que não entendem de tecnologia → GL-MT3000, comprado já configurado: é ligar na tomada e funciona
 
 ## Por que o GL-MT3000 é a nossa primeira recomendação
 
 - **Um aparelho, dois papéis.** Potente o bastante para ser o roteador principal de uma casa pequena, pequeno o bastante para viajar junto. É o único dos quatro que faz as duas coisas.
-- **Não fica ultrapassado tão cedo.** Wi‑Fi 6 e porta 2.5G dão folga para a maioria das internets domésticas. O mini só tem Wi‑Fi em 2,4 GHz e portas de 100 Mbps, que viram gargalo em casa.
-- **A conta fecha.** US$ 300 com 2 anos de serviço no plano Individual, contra US$ 200 com 12 meses no mini. Contando o serviço incluso, os US$ 100 a mais compram um aparelho claramente melhor e mais um ano.
+- **Não fica ultrapassado tão cedo.** Wi‑Fi 6 e porta 2.5G dão folga para a maioria das internets domésticas.
+- **É o mais barato.** US$ 300 com 2 anos de serviço no plano Individual, o mesmo do GL-AXT1800, mas com porta 2.5G.
 - **É o que conhecemos melhor.** A nossa unidade de teste é esse modelo, os firmwares novos são testados nele primeiro, e o [vídeo tutorial de instalação](02-flash-firmware-yourself.md) usa ele. Quando você tiver um problema, temos o mesmo aparelho na mesa para comparar.
 
-Quando não escolher: para casa grande, muitos aparelhos ou internet acima de 1 gigabit, vá direto no GL-MT6000; sem internet fixa, no GL-XE3000; se for só para uma pessoa em viagens e o preço pesar mais, o GL-MT300N-V2 basta.
+Quando não escolher: para um portátil com duas portas de cabo, o GL-AXT1800; para aparelhos com Wi‑Fi 7, o GL-MT3600BE; para casa grande, muitos aparelhos ou internet acima de 1 gigabit, vá direto no GL-MT6000.
 
 ## Os três problemas mais comuns no começo
 
