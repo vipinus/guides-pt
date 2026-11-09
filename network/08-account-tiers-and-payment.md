@@ -17,7 +17,7 @@ As contas da LeoTun têm três planos: Individual, Família e Empresa. A única 
 
 ## Contas novas e a escolha do plano na compra
 
-- Toda conta recém-criada começa no plano Individual, e o teste grátis é dado pela duração do plano Individual.
+- Toda conta recém-criada começa no plano Individual.
 - A janela de renovação tem um seletor "Plano da conta" que vem marcado com o seu plano atual; se você clicar em um card de preço na página inicial, a janela já abre com aquele plano selecionado, e ainda dá para mudar depois.
 - Se você escolher outro plano, a janela mostra "Após a conclusão do pagamento, sua conta muda automaticamente para o plano tal; o tempo restante não expirado é convertido por valor igual". Preço, desconto e quantidade de créditos são calculados na hora para o plano escolhido; o que você vê é o que será cobrado.
 - Também dá para trocar de plano sem comprar nada: clique no seu nome de usuário para mudar de plano.
@@ -81,19 +81,19 @@ Na China continental, depois que você clica em "Confirmar pagamento", a página
 
 | | Individual | Família | Empresa |
 |---|---|---|---|
-| Teste grátis | 4 horas | 2 horas | 1 hora |
+| Teste grátis | 30 minutos | 30 minutos | 30 minutos |
 | Por primeiro pagamento de cada amigo convidado (você e o amigo ganham cada um) | 15 créditos | 15 créditos | 15 créditos |
 | Serviço incluso na compra de roteador (modelos de 24 meses) | 24 meses | 12 meses | 6 meses |
 
-- Teste: depois de se cadastrar, peça na página inicial, sem cartão de crédito; um código de teste chega no seu e-mail e você digita os 6 dígitos para ativar; uma vez por conta. Conta nova fica no plano Individual, então normalmente você recebe 4 horas.
+- Teste: depois de se cadastrar, peça na página inicial, sem cartão de crédito; um código de teste chega no seu e-mail e você digita os 6 dígitos para ativar; uma vez por conta; 30 minutos em qualquer plano.
 - Convite: depois que um amigo se cadastra pelo seu link de indicação e faz o primeiro pagamento, você e o amigo ganham 15 créditos cada, direto no saldo de créditos, igual em qualquer plano e sem limite de pessoas. O plano Individual usa 1 crédito por dia, então 15 créditos dão cerca de 15 dias e podem ser usados para renovar por dia.
-- O teste grátis e o serviço incluído na compra do roteador são convertidos na proporção inversa do multiplicador de preço, então o valor é o mesmo em qualquer plano; o bônus por convite é pago em créditos e é igual nos três planos.
+- O serviço incluído na compra do roteador é convertido na proporção inversa do multiplicador de preço, então o valor é o mesmo em qualquer plano; o teste e o bônus por convite (em créditos) são iguais nos três planos.
 
 ## Depois do vencimento
 
 - Nas 24 horas antes do vencimento você recebe um e-mail de aviso "Serviço prestes a vencer".
 - Depois do vencimento nenhuma forma de conexão funciona; os aparelhos da Rede privada ficam off-line em poucos minutos, e o QR code do Hiddify só pode ser gerado de novo depois da renovação.
-- Um ou dois dias depois do vencimento chega um e-mail "Serviço vencido"; para quem tem direito, ele traz um botão de resgate que não exige login e dá 4 / 2 / 1 horas conforme o plano; o link vale 7 dias e só pode ser clicado uma vez.
+- Um ou dois dias depois do vencimento chega um e-mail "Serviço vencido"; para quem tem direito, ele traz um botão de resgate que não exige login e dá 30 minutos; o link vale 7 dias e só pode ser clicado uma vez.
 - Depois de renovar, o serviço volta na hora; cada aparelho da Rede privada só precisa clicar em login mais uma vez, e a configuração de saída continua salva.
 
 ## Perguntas frequentes
@@ -117,4 +117,4 @@ Na China continental, depois que você clica em "Confirmar pagamento", a página
 - [Perguntas frequentes e contato com o suporte](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-08)
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-08) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-08) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 4 horas de teste grátis; cada amigo convidado que pagar rende 15 créditos (cerca de 15 dias do plano Individual) para você e para ele, oferta sem data para acabar
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-08) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-08) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; cada amigo convidado que pagar rende 15 créditos (cerca de 15 dias do plano Individual) para você e para ele, oferta sem data para acabar
