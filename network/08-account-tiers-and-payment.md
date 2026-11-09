@@ -83,7 +83,7 @@ Na China continental, depois que você clica em "Confirmar pagamento", a página
 |---|---|---|---|
 | Teste grátis | 30 minutos | 30 minutos | 30 minutos |
 | Por primeiro pagamento de cada amigo convidado (você e o amigo ganham cada um) | 15 créditos | 15 créditos | 15 créditos |
-| Serviço incluso na compra de roteador (modelos de 3 anos) | 3 anos | 18 meses | 9 meses |
+| Serviço incluso na compra de roteador (modelos de 2 anos) | 2 anos | 12 meses | 6 meses |
 
 - Teste: depois de se cadastrar, peça na página inicial, sem cartão de crédito; um código de teste chega no seu e-mail e você digita os 6 dígitos para ativar; uma vez por conta; 30 minutos em qualquer plano.
 - Convite: depois que um amigo se cadastra pelo seu link de indicação e faz o primeiro pagamento, você e o amigo ganham 15 créditos cada, direto no saldo de créditos, igual em qualquer plano e sem limite de pessoas. O plano Individual usa 1 crédito por dia, então 15 créditos dão cerca de 15 dias e podem ser usados para renovar por dia.
