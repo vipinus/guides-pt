@@ -93,7 +93,7 @@ Na China continental, depois que você clica em "Confirmar pagamento", a página
 
 - Nas 24 horas antes do vencimento você recebe um e-mail de aviso "Serviço prestes a vencer".
 - Depois do vencimento nenhuma forma de conexão funciona; os aparelhos da Rede privada ficam off-line em poucos minutos, e o QR code do Hiddify só pode ser gerado de novo depois da renovação.
-- Um ou dois dias depois do vencimento chega um e-mail "Serviço vencido"; para quem tem direito, ele traz um botão de resgate que não exige login e dá 30 minutos; o link vale 7 dias e só pode ser clicado uma vez.
+- Um ou dois dias depois do vencimento chega um e-mail de aviso "Serviço vencido".
 - Depois de renovar, o serviço volta na hora; cada aparelho da Rede privada só precisa clicar em login mais uma vez, e a configuração de saída continua salva.
 
 ## Perguntas frequentes
