@@ -31,7 +31,7 @@ Nos dois caminhos o firmware atualiza os componentes sozinho, sem precisar insta
 | GL-MT3600BE | Portátil | US$ 350 | 2 anos do plano Individual | Wi‑Fi 7 dual band com duas portas 2.5G, mais ou menos do tamanho do GL-MT3000 | Celular e notebook que já têm Wi‑Fi 7, para um Wi‑Fi mais rápido num aparelho que ainda dá para carregar |
 | GL-MT6000 | De mesa | US$ 400 | 2 anos do plano Individual | Duas portas 2.5G mais quatro portas gigabit, antenas externas, o maior poder de processamento | Casas grandes, muitos aparelhos (uma dúzia ou mais), internet acima de 1 gigabit, 4K e videogame, ou um escritório pequeno. Fica fixo como único roteador |
 
-Os meses inclusos são no plano Individual; no Família viram metade e no Empresa um quarto, o mesmo valor em qualquer caso. Frete grátis para o mundo todo, normalmente em 3 a 14 dias, com devolução em até 30 dias.
+Os meses inclusos são no plano Individual; no Família viram metade e no Empresa um quarto, o mesmo valor em qualquer caso. Frete grátis para o mundo todo, normalmente em 3 a 14 dias. Garantia de seis meses; roteadores não são reembolsáveis.
 
 ### Escolha rápida por situação
 
