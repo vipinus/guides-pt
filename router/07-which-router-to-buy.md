@@ -27,9 +27,9 @@ Nos dois caminhos o firmware atualiza os componentes sozinho, sem precisar insta
 | Modelo | Tipo | Preço | Incluso | O que é | Ideal para |
 |---|---|---|---|---|---|
 | GL-MT300N-V2 | Mini | US$ 200 | 12 meses de serviço | Do tamanho da palma da mão, alimentado por USB (funciona com power bank); Wi‑Fi só em 2,4 GHz, portas de 100 Mbps | Uma pessoa viajando: cabo ou Wi‑Fi de hotel, um celular e um notebook navegando e assistindo em 1080p. Não serve como roteador principal de casa |
-| **GL-MT3000** | Portátil | US$ 300 | 2 anos do plano Individual | Wi‑Fi 6 dual band com porta 2.5G, um pouco maior que a palma da mão | O roteador principal de uma casa pequena (TV, TV box, vários celulares e computadores) e pequeno o bastante para ir na mochila |
-| GL-MT6000 | De mesa | US$ 400 | 2 anos do plano Individual | Duas portas 2.5G mais quatro portas gigabit, antenas externas, o maior poder de processamento | Casas grandes, muitos aparelhos (uma dúzia ou mais), internet acima de 1 gigabit, 4K e videogame, ou um escritório pequeno. Fica fixo como único roteador |
-| GL-XE3000 | Móvel | US$ 400 | 2 anos do plano Individual | 5G/4G e bateria embutidos; com um chip (SIM) vira uma rede independente, e também aceita cabo | Lugares sem internet fixa: motorhome, obra, feira, aluguel por temporada; ou como reserva da internet de casa |
+| **GL-MT3000** | Portátil | US$ 300 | 3 anos do plano Individual | Wi‑Fi 6 dual band com porta 2.5G, um pouco maior que a palma da mão | O roteador principal de uma casa pequena (TV, TV box, vários celulares e computadores) e pequeno o bastante para ir na mochila |
+| GL-MT6000 | De mesa | US$ 400 | 3 anos do plano Individual | Duas portas 2.5G mais quatro portas gigabit, antenas externas, o maior poder de processamento | Casas grandes, muitos aparelhos (uma dúzia ou mais), internet acima de 1 gigabit, 4K e videogame, ou um escritório pequeno. Fica fixo como único roteador |
+| GL-XE3000 | Móvel | US$ 400 | 3 anos do plano Individual | 5G/4G e bateria embutidos; com um chip (SIM) vira uma rede independente, e também aceita cabo | Lugares sem internet fixa: motorhome, obra, feira, aluguel por temporada; ou como reserva da internet de casa |
 
 Os meses inclusos são no plano Individual; no Família viram metade e no Empresa um quarto, o mesmo valor em qualquer caso. Frete grátis para o mundo todo, normalmente em 3 a 14 dias, com devolução em até 30 dias.
 
@@ -46,7 +46,7 @@ Os meses inclusos são no plano Individual; no Família viram metade e no Empres
 
 - **Um aparelho, dois papéis.** Potente o bastante para ser o roteador principal de uma casa pequena, pequeno o bastante para viajar junto. É o único dos quatro que faz as duas coisas.
 - **Não fica ultrapassado tão cedo.** Wi‑Fi 6 e porta 2.5G dão folga para a maioria das internets domésticas. O mini só tem Wi‑Fi em 2,4 GHz e portas de 100 Mbps, que viram gargalo em casa.
-- **A conta fecha.** US$ 300 com 2 anos de serviço no plano Individual, contra US$ 200 com 12 meses no mini. Contando o serviço incluso, os US$ 100 a mais compram um aparelho claramente melhor e mais um ano.
+- **A conta fecha.** US$ 300 com 3 anos de serviço no plano Individual, contra US$ 200 com 12 meses no mini. Contando o serviço incluso, os US$ 100 a mais compram um aparelho claramente melhor e mais dois anos.
 - **É o que conhecemos melhor.** A nossa unidade de teste é esse modelo, os firmwares novos são testados nele primeiro, e o [vídeo tutorial de instalação](02-flash-firmware-yourself.md) usa ele. Quando você tiver um problema, temos o mesmo aparelho na mesa para comparar.
 
 Quando não escolher: para casa grande, muitos aparelhos ou internet acima de 1 gigabit, vá direto no GL-MT6000; sem internet fixa, no GL-XE3000; se for só para uma pessoa em viagens e o preço pesar mais, o GL-MT300N-V2 basta.
