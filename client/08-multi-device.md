@@ -11,7 +11,7 @@ Para quem tem muitos aparelhos, o mais chato é configurar cada um, refazer tudo
 
 ## Como os aparelhos simultâneos são contados
 
-Uma conta pode ser instalada em quantos aparelhos você quiser; o único limite é quantos ficam on-line ao mesmo tempo: Individual 2, Família 4, Empresa 8, dividindo a mesma cota com Cisco, Hiddify e as outras formas. Se passar do limite do seu plano, você pode subir de plano temporariamente (o tempo restante é convertido pelo valor equivalente) e voltar quando terminar.
+Uma conta pode ser instalada em quantos aparelhos você quiser; o único limite é quantos ficam on-line ao mesmo tempo: Básico 2, Padrão 4, Pro 8, Elite 16, Empresa 32, Supremo 64, dividindo a mesma cota com Cisco, Hiddify e as outras formas. Se passar do limite do seu plano, você pode subir de plano temporariamente (o tempo restante é convertido pelo valor equivalente) e voltar quando terminar.
 
 Um roteador conta como um aparelho, e os aparelhos ligados a ele não entram na conta. Um roteador ou NAS em casa mais o celular e o notebook que você leva costumam bastar.
 
@@ -49,4 +49,4 @@ Um roteador conta como um aparelho, e os aparelhos ligados a ele não entram na 
 Versão deste artigo no site: https://www.leotun.com/pt/guides/multi-device?utm_source=github&utm_content=client-08
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=client-08) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=client-08) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=client-08) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=client-08) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), oferta permanente

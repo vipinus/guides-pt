@@ -48,7 +48,7 @@ Quando você conecta de dentro da China, os endereços do AnyConnect e do Hiddif
 
 **Usar uma VPN para a China afeta a conta de rede do estudante na universidade?** Não. A linha só manda o seu tráfego para uma saída na China, e o que a rede da universidade vê é uma conexão criptografada. As regras de uso da maioria das universidades só proíbem downloads piratas e ataques, e acessar serviços do seu próprio país não está entre eles; se tiver dúvida, dê uma olhada na política de uso aceitável da universidade.
 
-**Posso dividir uma conta com quem mora comigo?** Conforme o plano, uma conta pode ter 2 (Individual), 4 (Família) ou 8 (Empresa) aparelhos on-line ao mesmo tempo, e dividir com a família ou com quem mora com você está dentro das regras. Mas para coisas como internet banking é mais seguro cada um usar a própria conta, para evitar que várias pessoas troquem toda hora na mesma linha e acionem o controle de risco.
+**Posso dividir uma conta com quem mora comigo?** Conforme o plano, uma conta pode ter 2 (Básico), 4 (Padrão), 8 (Pro), 16 (Elite), 32 (Empresa) ou 64 (Supremo) aparelhos on-line ao mesmo tempo, e dividir com a família ou com quem mora com você está dentro das regras. Mas para coisas como internet banking é mais seguro cada um usar a própria conta, para evitar que várias pessoas troquem toda hora na mesma linha e acionem o controle de risco.
 
 **Por que o Hiddify fica lento no alojamento enquanto o AnyConnect está normal?** O mais provável é que a rede da universidade restrinja UDP. O protocolo hysteria2 do Hiddify é baseado em UDP, e quando limitado fica lento ou cai; o AnyConnect roda sobre TLS, igual a acessar um site HTTPS, e não é afetado.
 
@@ -66,4 +66,4 @@ Quando você conecta de dentro da China, os endereços do AnyConnect e do Hiddif
 Versão deste artigo no site: https://www.leotun.com/pt/guides/students?utm_source=github&utm_content=china-access-10
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=china-access-10) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=china-access-10) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=china-access-10) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=china-access-10) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), oferta permanente

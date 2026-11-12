@@ -1,61 +1,73 @@
-# 08 · Como escolher entre os três planos, renovar e pagar
+# 08 · Como escolher o plano, renovar e pagar
 
-As contas da LeoTun têm três planos: Individual, Família e Empresa. A única diferença entre eles é o preço e o número de aparelhos conectados ao mesmo tempo; regiões, tráfego e formas de conexão são exatamente iguais nos três. Este artigo explica: o que cada plano oferece e como escolher; em que plano fica uma conta nova, como trocar de plano na hora da compra e como o tempo restante é calculado na troca; como funciona o desconto para quem compra por mais tempo; como pagar com Alipay, PayPal e cartão de crédito, e por que a página faz um redirecionamento quando você paga de dentro da China; para quem vale a pena pagar por dia com créditos; quanto valem o teste grátis e o bônus por convite em cada plano; e o que acontece depois do vencimento.
+As contas da LeoTun têm seis planos pagos: Básico, Padrão, Pro, Elite, Empresa e Supremo (desde 11/11/2026; os antigos Individual, Família e Empresa passaram a se chamar Básico, Padrão e Pro, com o mesmo preço), além de um teste grátis de 30 minutos. A diferença entre os planos é só o preço, o número de aparelhos conectados ao mesmo tempo e quantos roteadores você pode vincular; regiões, tráfego e formas de conexão são exatamente iguais em todos. Este artigo explica: o que cada plano oferece e como escolher; em que plano fica uma conta nova, como trocar de plano na hora da compra e como o tempo restante é calculado na troca; como funciona o desconto para quem compra por mais tempo; como pagar com Alipay, PayPal e cartão de crédito, e por que a página faz um redirecionamento quando você paga de dentro da China; para quem vale a pena pagar por dia com créditos; o teste grátis e o bônus por convite; e o que acontece depois do vencimento.
 
-## Os três planos lado a lado
+## Os seis planos lado a lado
 
-| | Individual | Família | Empresa |
-|---|---|---|---|
-| Preço mensal | US$ 5 | US$ 10 | US$ 20 |
-| Multiplicador de preço | 1x | 2x | 4x |
-| Aparelhos conectados ao mesmo tempo | 2 | 4 | 8 |
-| Regiões / tráfego / formas de conexão | Todas / ilimitado / todas | Igual | Igual |
+| Plano | Preço mensal | Aparelhos ao mesmo tempo | Roteadores | Créditos/dia |
+|---|---|---|---|---|
+| Básico | US$ 5 | 2 | 1 | 1 |
+| Padrão | US$ 10 | 4 | 2 | 2 |
+| Pro | US$ 20 | 8 | 3 | 4 |
+| Elite | US$ 40 | 16 | 4 | 8 |
+| Empresa | US$ 80 | 32 | 5 | 16 |
+| Supremo | US$ 160 | 64 | 6 | 32 |
 
-- Os três planos podem usar Cisco, OpenVPN, Hiddify, Proxy, Rede privada e Roteador, e todos podem gerar o firmware de roteador. O plano não define o que você pode usar, só quantos aparelhos podem ficar conectados ao mesmo tempo.
-- Não há limite de aparelhos em que você instala; o limite é de quantos ficam on-line no mesmo momento. Um roteador conta como um aparelho só, e os celulares e TVs ligados a ele não entram na conta. Se o número de aparelhos on-line ao mesmo tempo passar do limite do plano, você pode subir de plano temporariamente (o tempo restante é convertido pelo valor equivalente) e voltar quando terminar.
-- Como escolher: uma pessoa com celular e computador fica no Individual; uma família, ou uma casa com roteador instalado em que você ainda leva celular e notebook para a rua, fica no Família; equipes pequenas e quem tem muitos aparelhos, no Empresa. Na dúvida, comece pelo Individual e suba se não der; o tempo restante não se perde (veja "Trocar de plano" abaixo).
+Cada plano custa o dobro do anterior. No Alipay o preço é em yuan, à taxa fixa de US$ 1 = ¥ 7.
+
+- Todos os seis planos podem usar Cisco, OpenVPN, Hiddify, Proxy, Rede privada e Roteador, e todos podem gerar o firmware de roteador; o roteador não tem limite de velocidade em nenhum plano. O plano não define o que você pode usar, só quantos aparelhos ficam conectados ao mesmo tempo e quantos roteadores você vincula.
+- Não há limite de aparelhos em que você instala; o limite é de quantos ficam on-line no mesmo momento. Cada roteador conta como um aparelho só, e os celulares e TVs ligados a ele não entram na conta. Se o número de aparelhos on-line ao mesmo tempo passar do limite do plano, você pode subir de plano temporariamente (o tempo restante é convertido pelo valor equivalente) e voltar quando terminar.
+- Como escolher: uma pessoa com celular e computador fica no Básico; uma família, ou uma casa com roteador instalado em que você ainda leva celular e notebook para a rua, fica no Padrão; equipes pequenas e quem tem muitos aparelhos, no Pro; mais gente ou vários escritórios, nos planos acima. Na dúvida, comece pelo Básico e suba se não der; o tempo restante não se perde (veja "Trocar de plano" abaixo).
+- Nomes antigos: Individual = Básico, Família = Padrão, e o antigo Empresa de US$ 20 e 8 aparelhos = Pro. O Empresa de agora é o novo plano de US$ 80 e 32 aparelhos.
+
+## Roteadores: quantos cada plano vincula
+
+- Roteadores por conta, conforme o plano: Básico 1, Padrão 2, Pro 3, Elite 4, Empresa 5, Supremo 6. Um roteador novo é vinculado automaticamente na primeira conexão.
+- Com o limite atingido, o roteador seguinte não conecta: na seção Roteador do site, desvincule um que você não usa mais ou suba de plano. Dá para desvincular mesmo que o roteador antigo esteja quebrado ou longe.
+- O teste grátis não inclui roteador; depois de pagar, já pode usar.
 
 ## Contas novas e a escolha do plano na compra
 
-- Toda conta recém-criada começa no plano Individual.
+- Toda conta recém-criada começa no plano Básico.
 - A janela de renovação tem um seletor "Plano da conta" que vem marcado com o seu plano atual; se você clicar em um card de preço na página inicial, a janela já abre com aquele plano selecionado, e ainda dá para mudar depois.
 - Se você escolher outro plano, a janela mostra "Após a conclusão do pagamento, sua conta muda automaticamente para o plano tal; o tempo restante não expirado é convertido por valor igual". Preço, desconto e quantidade de créditos são calculados na hora para o plano escolhido; o que você vê é o que será cobrado.
 - Também dá para trocar de plano sem comprar nada: clique no seu nome de usuário para mudar de plano.
 
 ## Trocar de plano: o tempo restante é convertido pelo valor equivalente
 
-A regra em uma frase: **tempo restante × multiplicador do plano antigo ÷ multiplicador do plano novo**. O dinheiro continua o mesmo e vira tempo no plano novo.
+A regra em uma frase: **tempo restante × preço mensal do plano antigo ÷ preço mensal do plano novo**. O dinheiro continua o mesmo e vira tempo no plano novo. Subir um plano corta o tempo pela metade; descer um, dobra.
 
 | Plano atual | Restante | Muda para | Restante depois da troca |
 |---|---|---|---|
-| Individual | 60 dias | Família | 30 dias |
-| Individual | 60 dias | Empresa | 15 dias |
-| Empresa | 10 dias | Individual | 40 dias |
+| Básico | 60 dias | Padrão | 30 dias |
+| Básico | 60 dias | Pro | 15 dias |
+| Pro | 10 dias | Básico | 40 dias |
+| Pro | 40 dias | Supremo | 5 dias |
 
 - Conta já vencida não tem conversão na troca de plano, e a data de vencimento não muda; na renovação, o plano é trocado primeiro e depois o tempo comprado é somado a partir de "agora".
-- Ao descer para um plano com menos aparelhos, se houver mais aparelhos on-line do que o limite do plano novo, o site pede que você desconecte os excedentes antes de trocar.
+- Ao descer para um plano com limites menores, se houver mais aparelhos on-line ou roteadores vinculados do que o plano novo permite, o site pede que você desconecte os aparelhos excedentes ou desvincule os roteadores a mais na seção Roteador antes de trocar.
 - Enquanto houver um pedido não pago, não é possível trocar de plano; pague o pedido ou espere 30 minutos antes de trocar.
 
 ## Quanto mais tempo você compra, mais barato sai
 
-Os três planos seguem a mesma curva de desconto: 5% → 10% → 20%. Os planos mais caros chegam ao desconto antes: gastando o mesmo valor, você ganha o mesmo desconto.
+Todos os planos seguem a mesma curva de desconto: 5% → 10% → 20%. Os planos mais caros chegam ao desconto antes.
 
 | Plano | 5% de desconto | 10% de desconto | 20% de desconto |
 |---|---|---|---|
-| Individual | A partir de 12 meses | A partir de 24 meses | 48 meses |
-| Família | A partir de 6 meses | A partir de 12 meses | A partir de 24 meses |
-| Empresa | A partir de 3 meses | A partir de 6 meses | A partir de 12 meses |
+| Básico | A partir de 12 meses | A partir de 24 meses | 48 meses |
+| Padrão | A partir de 6 meses | A partir de 12 meses | A partir de 24 meses |
+| Pro, Elite, Empresa, Supremo | A partir de 3 meses | A partir de 6 meses | A partir de 12 meses |
 
-- Na compra por mês, o máximo de uma vez é 12 meses; na compra por ano, o máximo é 4 anos. Comprando por mês você recebe o mesmo desconto assim que atingir uma faixa, então não precisa escolher "por ano".
-- Alguns valores reais: Individual 12 meses US$ 57, 4 anos US$ 192; Família 6 meses US$ 57, 2 anos US$ 192; Empresa 3 meses US$ 57, 1 ano US$ 192.
+- Na compra por mês, o máximo de uma vez é 12 meses; na compra por ano, o máximo é 4 anos. Comprando por mês você recebe o mesmo desconto assim que atingir uma faixa, então não precisa escolher "por ano". 1 e 2 meses não têm desconto, e o desconto máximo é 20%.
+- Alguns valores reais: Básico 12 meses US$ 57, 4 anos US$ 192; Padrão 6 meses US$ 57, 2 anos US$ 192; Pro 3 meses US$ 57, 1 ano US$ 192. Elite, Empresa e Supremo dobram a cada plano: Elite 1 ano US$ 384, Supremo 1 ano US$ 1.536.
 - Se você renovar antes do vencimento, o tempo comprado é somado depois da data de vencimento original e não come os dias que ainda restam.
 
 ## Formas de pagamento
 
 | Forma | Observações |
 |---|---|
-| Alipay | Pagamento em yuan (RMB), convertido do preço em dólar à taxa fixa de US$ 1 = ¥ 7 (mensal: Individual ¥ 35, Família ¥ 70, Empresa ¥ 140) |
-| PayPal | Pagamento em dólar; aceita cartões bancários emitidos na China |
+| Alipay | Pagamento em yuan (RMB), convertido do preço em dólar à taxa fixa de US$ 1 = ¥ 7 (mensal: Básico ¥ 35, Padrão ¥ 70, Pro ¥ 140, Elite ¥ 280, Empresa ¥ 560, Supremo ¥ 1.120) |
+| PayPal | Pagamento em dólar (mensal: Básico US$ 5, Padrão US$ 10, Pro US$ 20, Elite US$ 40, Empresa US$ 80, Supremo US$ 160); aceita cartões bancários emitidos na China |
 | Cartão de crédito | Visa, Mastercard, AMEX |
 | Créditos | Descontados dos créditos que você já recarregou; servem para comprar por dia |
 
@@ -73,21 +85,15 @@ Na China continental, depois que você clica em "Confirmar pagamento", a página
 ## Créditos e pagamento por dia
 
 - Recarga de créditos: 28 créditos por US$ 10, e você pode escolher de 28 a 168 créditos por vez. Os créditos nunca expiram.
-- Consumo diário: Individual 1 crédito por dia, Família 2 créditos, Empresa 4 créditos. Um dia no plano Individual sai por cerca de US$ 0,36.
+- Consumo diário: Básico 1 crédito por dia, Padrão 2, Pro 4, Elite 8, Empresa 16, Supremo 32. Um dia no plano Básico sai por cerca de US$ 0,36.
 - Os créditos também renovam por mês (contado como 30 dias) ou por ano (contado como 365 dias), mas créditos não têm desconto.
-- Para quem serve: quem usa só uns dez dias por mês ou precisa só de alguns dias antes de voltar à China. Se você usa todo dia, a assinatura mensal compensa mais; no plano Individual, se você usa mais de 14 dias por mês, vale assinar por mês.
+- Para quem serve: quem usa só uns dez dias por mês ou precisa só de alguns dias antes de voltar à China. Se você usa todo dia, a assinatura mensal compensa mais; no plano Básico, se você usa mais de 14 dias por mês, vale assinar por mês.
 
-## Teste grátis e bônus por convite em cada plano
+## Teste grátis, bônus por convite e meses inclusos com o roteador
 
-| | Individual | Família | Empresa |
-|---|---|---|---|
-| Teste grátis | 30 minutos | 30 minutos | 30 minutos |
-| Por primeiro pagamento de cada amigo convidado (você e o amigo ganham cada um) | 15 créditos | 15 créditos | 15 créditos |
-| Serviço incluso na compra de roteador (modelos de 2 anos) | 2 anos | 12 meses | 6 meses |
-
-- Teste: depois de se cadastrar, peça na página inicial, sem cartão de crédito; um código de teste chega no seu e-mail e você digita os 6 dígitos para ativar; uma vez por conta; 30 minutos em qualquer plano.
-- Convite: depois que um amigo se cadastra pelo seu link de indicação e faz o primeiro pagamento, você e o amigo ganham 15 créditos cada, direto no saldo de créditos, igual em qualquer plano e sem limite de pessoas. O plano Individual usa 1 crédito por dia, então 15 créditos dão cerca de 15 dias e podem ser usados para renovar por dia.
-- O serviço incluído na compra do roteador é convertido na proporção inversa do multiplicador de preço, então o valor é o mesmo em qualquer plano; o teste e o bônus por convite (em créditos) são iguais nos três planos.
+- Teste: depois de se cadastrar, peça na página inicial, sem cartão de crédito; um código de teste chega no seu e-mail e você digita os 6 dígitos para ativar; uma vez por conta, 30 minutos, e o teste não inclui roteador.
+- Convite: depois que um amigo se cadastra pelo seu link de indicação e faz o primeiro pagamento, você e o amigo ganham 15 créditos cada, direto no saldo de créditos, igual em qualquer plano e sem limite de pessoas. O plano Básico usa 1 crédito por dia, então 15 créditos dão cerca de 15 dias e podem ser usados para renovar por dia.
+- O serviço incluído na compra do roteador (modelos com 2 anos) é convertido na proporção inversa do preço, então o valor é o mesmo em qualquer plano: Básico 2 anos, Padrão 12 meses, Pro 6 meses, Elite 3 meses, Empresa 1 mês; o Supremo não tem meses inclusos.
 
 ## Depois do vencimento
 
@@ -98,11 +104,13 @@ Na China continental, depois que você clica em "Confirmar pagamento", a página
 
 ## Perguntas frequentes
 
-**Posso trocar de plano a qualquer momento? Vou sair perdendo?** Pode; o tempo restante é convertido pelo valor equivalente, só muda a forma. Antes de descer de plano, basta desconectar os aparelhos excedentes e resolver qualquer pedido não pago.
+**Posso trocar de plano a qualquer momento? Vou sair perdendo?** Pode; o tempo restante é convertido pelo valor equivalente, só muda a forma. Antes de descer de plano, basta desconectar os aparelhos e roteadores excedentes e resolver qualquer pedido não pago.
 
-**Quem usa sozinho deve ficar no Família?** Não. Os três planos têm os mesmos recursos e o roteador também funciona; os 2 aparelhos simultâneos do Individual dão conta de um celular e um computador. Só pense no Família se você tem roteador em casa e ainda leva dois aparelhos com você.
+**Quem usa sozinho deve ficar no Padrão?** Não. Todos os planos têm os mesmos recursos e o roteador também funciona; os 2 aparelhos simultâneos do Básico dão conta de um celular e um computador. Só pense no Padrão se você tem roteador em casa e ainda leva dois aparelhos com você, ou se quer vincular um segundo roteador.
 
-**Por que aparece um valor em yuan quando uso Alipay?** Os preços são definidos em dólar, e no Alipay a conversão para yuan usa a taxa fixa de US$ 1 = ¥ 7. O mensal fica em ¥ 35 (Individual), ¥ 70 (Família) e ¥ 140 (Empresa), e 28 créditos custam ¥ 70; o valor não varia com o câmbio.
+**Como se chama agora o antigo plano Empresa?** O antigo Empresa de US$ 20 e 8 aparelhos agora se chama Pro; sua conta já foi ajustada, sem precisar fazer nada. O Empresa de agora é o plano novo de US$ 80 e 32 aparelhos, criado em 11/11/2026.
+
+**Por que aparece um valor em yuan quando uso Alipay?** Os preços são definidos em dólar, e no Alipay a conversão para yuan usa a taxa fixa de US$ 1 = ¥ 7. O mensal fica em ¥ 35 (Básico), ¥ 70 (Padrão), ¥ 140 (Pro) e assim por diante, e 28 créditos custam ¥ 70; o valor não varia com o câmbio.
 
 **Dá para usar créditos e assinatura mensal juntos?** Dá. Os créditos ficam guardados sem expirar; na renovação, escolher "Créditos" como forma de pagamento desconta do saldo, e escolher outra forma cobra em dinheiro normalmente.
 
@@ -117,4 +125,4 @@ Na China continental, depois que você clica em "Confirmar pagamento", a página
 - [Perguntas frequentes e contato com o suporte](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-08)
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-08) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-08) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; cada amigo convidado que pagar rende 15 créditos (cerca de 15 dias do plano Individual) para você e para ele, oferta sem data para acabar
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-08) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-08) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; cada amigo convidado que pagar rende 15 créditos (cerca de 15 dias do plano Básico) para você e para ele, oferta sem data para acabar

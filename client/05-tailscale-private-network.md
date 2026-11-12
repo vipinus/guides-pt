@@ -29,7 +29,7 @@ A seção Rede privada usa o Tailscale (uma ferramenta de rede feita sobre o Wir
 ## Vencimento e número de aparelhos
 
 - A validade do login de cada aparelho acompanha o vencimento da conta, e ele fica off-line poucos minutos depois do vencimento; depois de renovar, é só entrar mais uma vez. Não precisa reinstalar.
-- O número de aparelhos on-line ao mesmo tempo depende do seu plano (Individual 2, Família 4, Empresa 8), e a cota é dividida com as outras formas de conexão; se passar do limite do seu plano, você pode subir de plano temporariamente (o tempo restante é convertido pelo valor equivalente) e voltar quando terminar.
+- O número de aparelhos on-line ao mesmo tempo depende do seu plano (Básico 2, Padrão 4, Pro 8, Elite 16, Empresa 32, Supremo 64), e a cota é dividida com as outras formas de conexão; se passar do limite do seu plano, você pode subir de plano temporariamente (o tempo restante é convertido pelo valor equivalente) e voltar quando terminar.
 
 ## Dois casos em que outra forma serve melhor
 
@@ -37,4 +37,4 @@ A seção Rede privada usa o Tailscale (uma ferramenta de rede feita sobre o Wir
 - Numa rede de universidade / de empresa que restringe UDP: o WireGuard roda sobre UDP, então só consegue passar pelos relays do Tailscale, o que fica muito lento; troque para o AnyConnect.
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=client-05) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=client-05) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=client-05) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=client-05) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), oferta permanente

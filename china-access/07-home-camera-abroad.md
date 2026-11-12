@@ -24,7 +24,7 @@ Observe que o app com o mesmo nome numa loja estrangeira normalmente conecta a s
 2. Coloque também o celular ou o computador no exterior na mesma rede privada.
 3. A partir daí, o aparelho no exterior acessa o NVR direto pelo endereço dele na rede local de casa, como se você estivesse em casa.
 
-A "Rede privada" da LeoTun é exatamente esse tipo de rede privada. Não há limite de aparelhos em que você instala com uma conta, e o número on-line ao mesmo tempo segue o plano: Individual 2, Família 4, Empresa 8. Um aparelho em casa mais alguns no exterior cabe certinho no plano Família.
+A "Rede privada" da LeoTun é exatamente esse tipo de rede privada. Não há limite de aparelhos em que você instala com uma conta, e o número on-line ao mesmo tempo segue o plano: Básico 2, Padrão 4, Pro 8, Elite 16, Empresa 32, Supremo 64. Um aparelho em casa mais alguns no exterior cabe certinho no plano Padrão.
 
 ## Caso três: as contas não batem
 
@@ -35,4 +35,4 @@ Um aparelho comprado na China fica vinculado a uma conta chinesa, e o app da loj
 A imagem das câmeras da sua casa só deveria circular entre os seus aparelhos e a sua casa. A opção da rede privada prefere uma conexão direta entre os aparelhos e só passa por retransmissão quando a conexão direta não é possível, e a imagem não fica guardada em nenhum servidor; já a opção da nuvem do fabricante passa pelo fabricante. Em qualquer caso, não use "ferramentas de túnel" de origem desconhecida, o que equivale a entregar as câmeras da sua casa a outra pessoa.
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=china-access-07) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=china-access-07) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=china-access-07) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=china-access-07) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), oferta permanente

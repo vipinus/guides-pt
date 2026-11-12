@@ -11,7 +11,7 @@ Depois de instalar o firmware deste site ou comprar um roteador já configurado,
 | Atualização de componentes e da lista de roteamento dividido | Verifica ao ligar e baixa o que houver de novo, que **passa a valer na próxima inicialização**; a lista de sites bloqueados usada para acessar serviços de fora a partir da China também se atualiza sozinha todo dia | Nada; endereços de linha alterados e sites acrescentados à lista são aplicados automaticamente |
 | Código de país do Wi‑Fi | Detecta o país em que está depois de entrar na internet e ajusta a potência e os canais do sinal automaticamente | Logo depois da instalação, **ligue primeiro um cabo de rede** para ele entrar na internet uma vez; sinal mais fraco antes disso é normal |
 | Vencimento | Quando a conta vence, ele para de passar pela VPN; a rede local continua normal | Volta sozinho depois de renovar, sem precisar entrar de novo |
-| Vínculo do roteador | O primeiro login registra este roteador na conta | Desvincule no site antes de trocar de roteador |
+| Vínculo do roteador | O primeiro login registra este roteador na conta | Com o limite do plano atingido, desvincule um no site antes de trocar |
 
 Só uma atualização de versão maior do firmware inteiro exige instalar o arquivo sysupgrade. Isso acontece poucas vezes por ano, e o site avisa.
 
@@ -39,11 +39,11 @@ Só uma atualização de versão maior do firmware inteiro exige instalar o arqu
 
 ## Perguntas frequentes
 
-**O plano Individual pode usar roteador?** Pode. Individual, Família e Empresa aceitam roteador, sem precisar trocar de plano.
+**O plano Básico pode usar roteador?** Pode. Os seis planos pagos aceitam roteador, sem limite de velocidade e sem precisar trocar de plano; o Básico vincula 1 roteador, e para vincular mais é só subir de plano.
 
 **Quantas vagas de aparelho o roteador ocupa?** Uma; os aparelhos ligados a ele não entram na conta.
 
 **O firmware tem porta dos fundos?** Ele é compilado a partir do OpenWrt, só com o acréscimo do componente que conecta à VPN e das regras de roteamento dividido; a VPN registra só a duração da conexão e o tráfego total, para cobrança.
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-08) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-08) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), válido por tempo indeterminado
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-08) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-08) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), válido por tempo indeterminado

@@ -34,7 +34,7 @@ Neste caminho, por design não há conexão para cair; não precisa de root e n�
 
 ## Bom saber
 
-- Uma máquina Linux conta como um aparelho e divide a cota de aparelhos on-line ao mesmo tempo com os seus outros aparelhos (Individual 2 aparelhos, Família 4 aparelhos, Empresa 8 aparelhos); o Proxy Web do caminho 2 é contado por conexão e também entra.
+- Uma máquina Linux conta como um aparelho e divide a cota de aparelhos on-line ao mesmo tempo com os seus outros aparelhos (Básico 2, Padrão 4, Pro 8, Elite 16, Empresa 32, Supremo 64 aparelhos); o Proxy Web do caminho 2 é contado por conexão e também entra.
 - O arquivo de configuração e o arquivo de senha valem tanto quanto a sua conta; não faça commit deles num repositório git nem coloque numa imagem.
 - Quando você muda a senha, a configuração antiga para de funcionar na hora; é o mecanismo de revogação, de propósito. Basta atualizar o arquivo de senha.
 - Ao rodar a linha num servidor em nuvem, siga os termos de uso do provedor; a linha registra só a duração da conexão e o tráfego total.
@@ -59,4 +59,4 @@ Neste caminho, por design não há conexão para cair; não precisa de root e n�
 Versão deste artigo no site: https://www.leotun.com/pt/guides/linux-server?utm_source=github&utm_content=overseas-access-05
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=overseas-access-05) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=overseas-access-05) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), válido por tempo indeterminado
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=overseas-access-05) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=overseas-access-05) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), válido por tempo indeterminado

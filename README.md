@@ -9,7 +9,7 @@ Outros idiomas: [English](https://github.com/vipinus/guides-en) · [简体中文
 | Como conseguir | O que você ganha |
 |---|---|
 | Peça o teste grátis depois de se cadastrar | 30 minutos com todos os recursos, sem cartão de crédito |
-| Convide um amigo que se cadastre e faça o primeiro pagamento | 15 créditos para você e 15 para o amigo (cerca de 15 dias no plano Individual, que usa 1 crédito por dia), direto no saldo de créditos, uma vez por amigo, sem limite de amigos |
+| Convide um amigo que se cadastre e faça o primeiro pagamento | 15 créditos para você e 15 para o amigo (cerca de 15 dias no plano Básico, que usa 1 crédito por dia), direto no saldo de créditos, uma vez por amigo, sem limite de amigos |
 
 Site: <https://www.leotun.com/pt?utm_source=github&utm_content=readme> · Fale com a gente: <https://www.leotun.com/pt/contact?utm_source=github&utm_content=readme>
 
@@ -65,7 +65,7 @@ Explicação clara dos **princípios** do acesso entre a China e o exterior, de 
 | [05 · Como identificar apps de VPN arriscados](network/05-risky-vpn-apps.md) |
 | [06 · Por que às vezes está rápido e às vezes lento](network/06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · Quais problemas a linha resolve e quais pedem outra solução](network/07-when-you-do-not-need-us.md) |
-| [08 · Como escolher entre os três planos, renovar e pagar](network/08-account-tiers-and-payment.md) |
+| [08 · Como escolher o plano, renovar e pagar](network/08-account-tiers-and-payment.md) |
 | [09 · O que fazer quando faltam conexões de aparelho](network/09-not-enough-devices.md) |
 
 ### [Guias de aplicativos · Instalação e configuração](client/)

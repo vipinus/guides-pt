@@ -16,7 +16,7 @@ Encontre o seu erro na tabela. Para saber como importar, veja [Como importar um 
 
 ## Preciso importar de novo depois de renovar, trocar de plano ou mudar a senha?
 
-- **Renovar ou trocar de plano (Individual / Família / Empresa)**: Não. A configuração atual continua funcionando.
+- **Renovar ou trocar de plano (Básico, Padrão, Pro, Elite, Empresa, Supremo)**: Não. A configuração atual continua funcionando.
 - **Mudar a senha**: A configuração antiga para de funcionar na hora; escaneie o QR code de novo. Se você perder o celular ou o link vazar, use isso para cortar o acesso.
 - **Conta vencida**: A configuração retorna 401. Depois de renovar, não precisa de configuração nova; é só reconectar.
 - **Importado antes de setembro de 2026**: Falta a regra que recusa o IPv6, então assistir vídeos chineses fora da China vai mostrar aviso de restrição de direitos autorais. Apague e importe de novo; veja o [03](03-ipv6-and-dns-leak.md).
@@ -26,4 +26,4 @@ Encontre o seu erro na tabela. Para saber como importar, veja [Como importar um 
 Informe três coisas ao suporte: o nome e a versão do cliente, a região e o texto exato do erro ou um print.
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=troubleshooting-04) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=troubleshooting-04) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), válido por tempo indeterminado
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=troubleshooting-04) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=troubleshooting-04) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), válido por tempo indeterminado

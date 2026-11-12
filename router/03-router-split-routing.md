@@ -41,9 +41,9 @@ O sentido de acessar a China a partir do exterior não mudou.
 - **A impressora ou o NAS ficam inacessíveis depois de conectar**: isso significa que os endereços da rede local também estão sendo mandados para fora. Confira se as regras de roteamento dividido excluem as faixas privadas como 192.168.x.x.
 - **O desempenho do roteador** define o teto. O processador de um roteador antigo chega ao limite com tráfego criptografado, e isso aparece como a casa inteira ficando lenta. Nesse caso, o problema não é a linha da VPN.
 
-## Uma conta, um roteador
+## Roteador vinculado à conta
 
-A maioria dos serviços vincula o roteador à conta (pelo endereço MAC). Uma conta fica vinculada a um roteador, e para trocar de roteador você desvincula primeiro. Assim, a conta continua só sua.
+A maioria dos serviços vincula o roteador à conta (pelo endereço MAC). Nós vinculamos de 1 a 6 roteadores por conta, conforme o plano; com o limite atingido, para trocar de roteador você desvincula um primeiro. Assim, a conta continua só sua.
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-03) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-03) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-03) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-03) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), oferta permanente

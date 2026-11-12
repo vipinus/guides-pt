@@ -9,7 +9,7 @@ Este guia é para quem já tem um roteador de um modelo da lista de compatíveis
 ## Antes de começar
 
 - **Confira se o seu modelo é compatível.** Entre na conta, abra a seção **Roteador** e procure o seu modelo pela marca. A revisão de hardware depois do nome do modelo (v1, v2 etc.) também precisa bater.
-- **Sua conta precisa estar ativa.** Os planos Individual, Família e Empresa podem usar roteador.
+- **Sua conta precisa estar ativa.** Os seis planos pagos podem usar roteador (o teste grátis não).
 - **Tenha um cabo de rede à mão.** A porta WAN do roteador vai no seu modem ou no roteador principal. Durante a instalação, é melhor ligar também o computador ao roteador por cabo; é mais estável que o Wi-Fi.
 - **Guarde uma cópia do firmware original.** Baixe o firmware original do seu modelo no site do fabricante, caso um dia queira voltar.
 
@@ -84,10 +84,10 @@ Para confirmar que conectou, abra num aparelho ligado ao roteador um site que vo
 
 ## Trocar um roteador antigo por um novo
 
-Uma conta fica vinculada a um roteador por vez. Se a sua conta já foi usada em outro roteador:
+Cada conta vincula de 1 a 6 roteadores, conforme o plano (Básico 1, e mais 1 a cada plano acima). Se o limite não foi atingido, o roteador novo **conecta automaticamente** e fica vinculado, sem desvincular nada. Se o limite foi atingido e você vai trocar por um roteador novo:
 
-1. Entre na conta, abra a seção **Roteador** e, sob o título "Compilar Firmware", você verá o modelo **Vinculado**, com **Desvincular** ao lado.
-2. Clique em Desvincular. Dá para fazer isso mesmo se o roteador antigo estiver quebrado ou longe.
+1. Entre na conta e abra a seção **Roteador**. Sob o título "Compilar Firmware" fica a lista de roteadores vinculados (com o contador "x / y roteadores"), uma linha por roteador com o modelo e o final do MAC.
+2. Na linha do roteador que você não usa mais, clique em **Desvincular** no fim da linha. Dá para fazer isso mesmo se o roteador antigo estiver quebrado ou longe.
 3. Nada a fazer no roteador novo: ele **conecta automaticamente** e fica vinculado à sua conta.
 
 Se você instalar o roteador novo antes de desvincular, também não tem problema. O roteador novo fica esperando e conecta sozinho assim que você desvincular.
@@ -104,7 +104,7 @@ Se depois de uns dez minutos ainda não funcionar, verifique nesta ordem:
 
 1. **A internet em si está funcionando?** Num aparelho ligado ao roteador, abra qualquer site comum. Se não abrir, o problema é o cabo ou o modem: confira se o cabo na porta WAN está bem encaixado.
 2. **A conta venceu?** Entre no site e confira a data de vencimento. Depois de renovar, espere alguns minutos.
-3. **A conta ainda está vinculada ao roteador antigo?** Na seção Roteador, veja o modelo vinculado. Se não for este roteador, clique em Desvincular.
+3. **A conta atingiu o limite de roteadores?** Na seção Roteador, veja o contador "x / y roteadores". Se estiver cheio, clique em Desvincular no fim da linha de um roteador que você não usa. Se a tela de login do roteador disser que o usuário ou a senha estão errados mesmo com a senha certa, quase sempre é isso: o limite foi atingido.
 4. **Reinicie o roteador uma vez.** Tire da tomada, espere dez segundos, ligue de novo e dê dois a três minutos.
 5. **Entre manualmente.** Abra `http://192.168.11.1` e entre no roteador com o usuário `root` e a senha `www.anyfq.com`. Depois vá em **Services** → **VPN** (serviços → VPN), digite o e-mail e a senha da sua conta e salve.
 
@@ -124,11 +124,11 @@ A maioria dos roteadores tem um modo de recuperação: tire da tomada, segure o 
 
 **Posso voltar ao firmware original?** Pode. Use o modo de recuperação descrito em "Se a instalação der errado" para enviar o firmware original.
 
-**Um arquivo de firmware serve para dois roteadores?** Não. O firmware é gerado por conta, e uma conta fica vinculada a um roteador por vez.
+**Uma conta pode usar dois roteadores?** No Padrão e acima, pode (o Básico vincula só 1): na seção Roteador, gere o firmware para o modelo do segundo roteador e instale; ele é vinculado automaticamente na primeira conexão.
 
 **Preciso compilar de novo se trocar de conta?** Não. Saia da conta na página de administração e entre com a conta nova.
 
 **Atualizações futuras exigem reinstalar?** As atualizações de rotina o roteador pega sozinho; você não precisa fazer nada. Só uma versão maior exige compilar de novo e instalar uma vez o arquivo sysupgrade, e o site avisa quando isso acontecer.
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-02) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-02) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), válido por tempo indeterminado
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-02) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-02) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), válido por tempo indeterminado

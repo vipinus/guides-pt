@@ -24,11 +24,11 @@ Um teste simples: se você ficaria irritado quando cai, está na hora de pagar.
 
 ## Quanto gastar
 
-O plano Individual da LeoTun custa 5 dólares por mês e inclui 24 regiões, 2 aparelhos on-line ao mesmo tempo e todas as formas de conexão (AnyConnect / OpenVPN / Hiddify / Proxy Web), e também funciona com roteador. Os planos Família e Empresa custam 2 e 4 vezes o Individual, respectivamente. Regiões, linhas e formas de conexão são exatamente iguais nos três planos, e a única diferença é o número de aparelhos on-line ao mesmo tempo (4 e 8).
+O plano Básico da LeoTun custa 5 dólares por mês e inclui 24 regiões, 2 aparelhos on-line ao mesmo tempo e todas as formas de conexão (AnyConnect / OpenVPN / Hiddify / Proxy Web), e também funciona com roteador. Acima dele, Padrão, Pro, Elite, Empresa e Supremo dobram de preço a cada plano. Regiões, linhas e formas de conexão são exatamente iguais em todos, e a diferença é só o número de aparelhos on-line ao mesmo tempo (4 a 64) e de roteadores que dá para vincular.
 
-Se você não quer comprar por mês, há dois caminhos: primeiro peça o teste grátis de 30 minutos (sem cartão de crédito, uma vez por conta) e teste uma vez no pico da noite; ou pague por dia. Depois de recarregar créditos, o plano Individual consome 1 crédito por dia, e 28 créditos custam 10 dólares, o que dá cerca de 0,36 dólar por dia; comprar só alguns dias antes de uma viagem à China cai bem.
+Se você não quer comprar por mês, há dois caminhos: primeiro peça o teste grátis de 30 minutos (sem cartão de crédito, uma vez por conta) e teste uma vez no pico da noite; ou pague por dia. Depois de recarregar créditos, o plano Básico consome 1 crédito por dia, e 28 créditos custam 10 dólares, o que dá cerca de 0,36 dólar por dia; comprar só alguns dias antes de uma viagem à China cai bem.
 
-Quando um amigo que você convidou se cadastra e faz o primeiro pagamento, você e o amigo ganham 15 créditos cada (cerca de 15 dias no plano Individual), sem limite de pessoas. É uma fonte permanente de tempo grátis.
+Quando um amigo que você convidou se cadastra e faz o primeiro pagamento, você e o amigo ganham 15 créditos cada (cerca de 15 dias no plano Básico), sem limite de pessoas. É uma fonte permanente de tempo grátis.
 
 ## Como conferir antes de pagar
 
@@ -60,4 +60,4 @@ Quando um amigo que você convidou se cadastra e faz o primeiro pagamento, você
 Versão deste artigo no site: https://www.leotun.com/pt/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=china-access-11) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=china-access-11) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=china-access-11) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=china-access-11) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), oferta permanente

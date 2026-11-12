@@ -13,7 +13,7 @@ Explicação clara dos **princípios** do acesso entre a China e o exterior, de 
 | [05 · Como identificar apps de VPN arriscados](05-risky-vpn-apps.md) |
 | [06 · Por que às vezes está rápido e às vezes lento](06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · Quais problemas a linha resolve e quais pedem outra solução](07-when-you-do-not-need-us.md) |
-| [08 · Como escolher entre os três planos, renovar e pagar](08-account-tiers-and-payment.md) |
+| [08 · Como escolher o plano, renovar e pagar](08-account-tiers-and-payment.md) |
 | [09 · O que fazer quando faltam conexões de aparelho](09-not-enough-devices.md) |
 
 [← Voltar ao índice geral](../README.md)

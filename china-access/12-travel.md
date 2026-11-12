@@ -29,9 +29,9 @@ Códigos de verificação por SMS que nunca chegam não têm nada a ver com a li
 
 ## Perguntas frequentes
 
-**A viagem é de poucos dias. Preciso comprar um mês?** Não. Recarregue créditos e pague por dia: o plano Individual gasta 1 crédito por dia, cerca de US$ 0,36 por dia, o que combina bem com poucos dias. Antes, experimente com o teste grátis de 30 minutos.
+**A viagem é de poucos dias. Preciso comprar um mês?** Não. Recarregue créditos e pague por dia: o plano Básico gasta 1 crédito por dia, cerca de US$ 0,36 por dia, o que combina bem com poucos dias. Antes, experimente com o teste grátis de 30 minutos.
 
-**O celular e o notebook podem conectar ao mesmo tempo?** Podem. Conforme o plano, uma conta tem 2 / 4 / 8 aparelhos on-line ao mesmo tempo (Individual / Família / Empresa), e o plano Individual dá exatamente um celular mais um notebook.
+**O celular e o notebook podem conectar ao mesmo tempo?** Podem. Conforme o plano, uma conta tem de 2 a 64 aparelhos on-line ao mesmo tempo (Básico 2, Padrão 4, e o dobro a cada plano acima), e o plano Básico dá exatamente um celular mais um notebook.
 
 **Por que o Cisco é recomendado para viagens e não o Hiddify?** Numa rede desconhecida, a maior preocupação é o UDP restrito. O Cisco roda sobre TLS, como quem acessa um site HTTPS, e passa em quase qualquer lugar; o Hiddify é mais rápido em redes com muita perda de pacotes, mas não funciona quando o UDP é restrito. Instalar os dois e trocar quando um não funcionar é o mais garantido.
 
@@ -47,4 +47,4 @@ Códigos de verificação por SMS que nunca chegam não têm nada a ver com a li
 Versão deste artigo no site: https://www.leotun.com/pt/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=china-access-12) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=china-access-12) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=china-access-12) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=china-access-12) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), oferta permanente

@@ -30,7 +30,7 @@ O arquivo de configuração costuma ficar no disco do sistema e se perde na rein
 
 ### Trocar de roteador
 
-O roteador é diferente dos outros aparelhos: existe um **vínculo** entre ele e a conta. Para passar para um roteador novo, desvincule o antigo primeiro. Você mesmo faz isso no site: entre, abra a seção Roteador e clique em "Desvincular" na linha "Vinculado · modelo · Desvincular"; o roteador novo então conecta sozinho. Veja os detalhes no artigo correspondente dos Guias de roteador.
+O roteador é diferente dos outros aparelhos: existe um **vínculo** entre ele e a conta. Cada conta vincula de 1 a 6 roteadores, conforme o plano; se o limite não foi atingido, o roteador novo conecta direto. Se foi, desvincule o antigo primeiro. Você mesmo faz isso no site: entre, abra a seção Roteador e, na lista de roteadores vinculados sob o título "Compilar Firmware" (o contador "x / y roteadores"), clique em "Desvincular" no fim da linha do antigo; o roteador novo então conecta sozinho. Veja os detalhes no artigo correspondente dos Guias de roteador.
 
 ## Um equívoco muito comum
 
@@ -45,7 +45,7 @@ Por isso a prática certa é sempre: **ir ao site e pegar uma cópia nova**. Nã
 
 ## O que fazer quando as vagas estão cheias
 
-O número de aparelhos que podem ficar on-line ao mesmo tempo numa conta depende do plano: 2 no Individual, 4 no Família, 8 no Empresa. Se o aparelho antigo ainda estiver conectado quando você trocar, pode aparecer o aviso de que o limite foi atingido. Três opções:
+O número de aparelhos que podem ficar on-line ao mesmo tempo numa conta depende do plano: 2 no Básico, 4 no Padrão, 8 no Pro, 16 no Elite, 32 no Empresa e 64 no Supremo. Se o aparelho antigo ainda estiver conectado quando você trocar, pode aparecer o aviso de que o limite foi atingido. Três opções:
 
 - Saia da conta ou feche o aplicativo no aparelho antigo
 - Espere um pouco; conexões paradas são liberadas automaticamente
@@ -54,4 +54,4 @@ O número de aparelhos que podem ficar on-line ao mesmo tempo numa conta depende
 Na página do site você vê quantos aparelhos estão on-line agora e de que tipo é cada um, e com isso descobre se esqueceu algum ligado.
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=troubleshooting-07) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=troubleshooting-07) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=troubleshooting-07) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=troubleshooting-07) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), oferta permanente

@@ -2,7 +2,7 @@
 
 > Versão no site (mais completa): https://www.leotun.com/pt/guides/router?utm_source=github&utm_content=router-07
 
-O roteador resolve o problema de "aparelhos demais, e alguns nem conseguem instalar um aplicativo": a VPN é configurada uma vez no roteador, e a TV, o videogame, a caixa de som inteligente e o celular do parente idoso passam todos por ela automaticamente, sem instalar nada. Basta um roteador que aceite outro firmware e dez minutos de instalação. **Contas Individual, Família e Empresa podem usar roteador.**
+O roteador resolve o problema de "aparelhos demais, e alguns nem conseguem instalar um aplicativo": a VPN é configurada uma vez no roteador, e a TV, o videogame, a caixa de som inteligente e o celular do parente idoso passam todos por ela automaticamente, sem instalar nada. Basta um roteador que aceite outro firmware e dez minutos de instalação. **Os seis planos pagos podem usar roteador, e cada um vincula de 1 a 6.**
 
 ## Quando usar e quando não usar
 
@@ -26,12 +26,12 @@ Nos dois caminhos o firmware atualiza os componentes sozinho, sem precisar insta
 
 | Modelo | Tipo | Preço | Incluso | O que é | Ideal para |
 |---|---|---|---|---|---|
-| **GL-MT3000** | Portátil | US$ 250 | 2 anos do plano Individual | Wi‑Fi 6 dual band com porta 2.5G, um pouco maior que a palma da mão | O roteador principal de uma casa pequena (TV, TV box, vários celulares e computadores) e pequeno o bastante para ir na mochila |
-| GL-AXT1800 | Portátil | US$ 300 | 2 anos do plano Individual | Wi‑Fi 6 dual band, uma porta WAN gigabit e duas LAN gigabit, mais ou menos do tamanho do GL-MT3000 | Fora de casa, quando além do Wi‑Fi precisa ligar dois aparelhos no cabo ao mesmo tempo — um notebook e uma TV box, por exemplo |
-| GL-MT3600BE | Portátil | US$ 350 | 2 anos do plano Individual | Wi‑Fi 7 dual band com duas portas 2.5G, mais ou menos do tamanho do GL-MT3000 | Celular e notebook que já têm Wi‑Fi 7, para um Wi‑Fi mais rápido num aparelho que ainda dá para carregar |
-| GL-MT6000 | De mesa | US$ 400 | 2 anos do plano Individual | Duas portas 2.5G mais quatro portas gigabit, antenas externas, o maior poder de processamento | Casas grandes, muitos aparelhos (uma dúzia ou mais), internet acima de 1 gigabit, 4K e videogame, ou um escritório pequeno. Fica fixo como único roteador |
+| **GL-MT3000** | Portátil | US$ 250 | 2 anos do plano Básico | Wi‑Fi 6 dual band com porta 2.5G, um pouco maior que a palma da mão | O roteador principal de uma casa pequena (TV, TV box, vários celulares e computadores) e pequeno o bastante para ir na mochila |
+| GL-AXT1800 | Portátil | US$ 300 | 2 anos do plano Básico | Wi‑Fi 6 dual band, uma porta WAN gigabit e duas LAN gigabit, mais ou menos do tamanho do GL-MT3000 | Fora de casa, quando além do Wi‑Fi precisa ligar dois aparelhos no cabo ao mesmo tempo — um notebook e uma TV box, por exemplo |
+| GL-MT3600BE | Portátil | US$ 350 | 2 anos do plano Básico | Wi‑Fi 7 dual band com duas portas 2.5G, mais ou menos do tamanho do GL-MT3000 | Celular e notebook que já têm Wi‑Fi 7, para um Wi‑Fi mais rápido num aparelho que ainda dá para carregar |
+| GL-MT6000 | De mesa | US$ 400 | 2 anos do plano Básico | Duas portas 2.5G mais quatro portas gigabit, antenas externas, o maior poder de processamento | Casas grandes, muitos aparelhos (uma dúzia ou mais), internet acima de 1 gigabit, 4K e videogame, ou um escritório pequeno. Fica fixo como único roteador |
 
-Os meses inclusos são no plano Individual; no Família viram metade e no Empresa um quarto, o mesmo valor em qualquer caso. Frete grátis para o mundo todo, normalmente em 3 a 14 dias. Garantia de seis meses; roteadores não são reembolsáveis.
+Os meses inclusos são no plano Básico; no Padrão são 12 meses, no Pro 6, no Elite 3 e no Empresa 1 mês; o Supremo não tem meses inclusos; o valor é o mesmo em qualquer caso. Frete grátis para o mundo todo, normalmente em 3 a 14 dias. Garantia de seis meses; roteadores não são reembolsáveis.
 
 ### Escolha rápida por situação
 
@@ -46,7 +46,7 @@ Os meses inclusos são no plano Individual; no Família viram metade e no Empres
 
 - **Um aparelho, dois papéis.** Potente o bastante para ser o roteador principal de uma casa pequena, pequeno o bastante para viajar junto. É o único dos quatro que faz as duas coisas.
 - **Não fica ultrapassado tão cedo.** Wi‑Fi 6 e porta 2.5G dão folga para a maioria das internets domésticas.
-- **É o mais barato.** US$ 250 com 2 anos de serviço no plano Individual: o mais barato dos quatro, US$ 50 a menos que o GL-AXT1800, e ainda assim com porta 2.5G.
+- **É o mais barato.** US$ 250 com 2 anos de serviço no plano Básico: o mais barato dos quatro, US$ 50 a menos que o GL-AXT1800, e ainda assim com porta 2.5G.
 - **É o que conhecemos melhor.** A nossa unidade de teste é esse modelo, os firmwares novos são testados nele primeiro, e o [vídeo tutorial de instalação](02-flash-firmware-yourself.md) usa ele. Quando você tiver um problema, temos o mesmo aparelho na mesa para comparar.
 
 Quando não escolher: para um portátil com duas portas de cabo, o GL-AXT1800; para aparelhos com Wi‑Fi 7, o GL-MT3600BE; para casa grande, muitos aparelhos ou internet acima de 1 gigabit, vá direto no GL-MT6000.
@@ -61,11 +61,11 @@ Quando não escolher: para um portátil com duas portas de cabo, o GL-AXT1800; p
 
 ## Perguntas frequentes
 
-**O roteador conta como um aparelho?** Ocupa uma vaga da conta (pelo plano: Individual 2, Família 4, Empresa 8 aparelhos on-line ao mesmo tempo), e os aparelhos ligados a ele não contam separadamente.
+**O roteador conta como um aparelho?** Cada um ocupa uma vaga da conta (pelo plano: Básico 2, Padrão 4, Pro 8, Elite 16, Empresa 32, Supremo 64 aparelhos on-line ao mesmo tempo), e os aparelhos ligados a ele não contam separadamente.
 
 **Dá para usar para assistir vídeos da China estando no exterior?** Dá, escolha a região China para a linha. O roteador coloca a rede local inteira na VPN, e o IPv6 e o DNS dos aparelhos não conseguem escapar, então os avisos de "restrição de direitos autorais" aparecem menos do que quando um celular conecta sozinho. Veja o [06](06-unlock-chinese-video-with-router.md).
 
 **O firmware tem porta dos fundos?** Ele é compilado a partir do OpenWrt, só com o acréscimo do componente que conecta à VPN e das regras de roteamento dividido; a VPN registra só a duração da conexão e o tráfego total, para cobrança, e não registra o que você acessa.
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-07) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-07) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-07) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-07) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), oferta permanente

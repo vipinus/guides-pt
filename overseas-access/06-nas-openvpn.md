@@ -31,7 +31,7 @@ Acessar o NAS de fora (abrir pastas compartilhadas numa viagem, ver câmeras): u
 
 - O arquivo de configuração leva os dados da sua conta, e o campo de senha no NAS deixa de funcionar depois que você troca a senha: baixe o .ovpn de novo e substitua, ou mude só a senha no perfil de VPN.
 - Quando a conta vence, o NAS é desconectado; depois de renovar, ele reconecta sozinho, e a configuração não precisa ser trocada.
-- O NAS conta como um aparelho e divide a cota de aparelhos on-line ao mesmo tempo com os seus outros aparelhos (Individual 2, Família 4, Empresa 8).
+- O NAS conta como um aparelho e divide a cota de aparelhos on-line ao mesmo tempo com os seus outros aparelhos (Básico 2, Padrão 4, Pro 8, Elite 16, Empresa 32, Supremo 64).
 - A linha roda sobre UDP; um NAS numa internet doméstica quase nunca esbarra em restrição de UDP.
 
 ## Perguntas frequentes
@@ -54,4 +54,4 @@ Acessar o NAS de fora (abrir pastas compartilhadas numa viagem, ver câmeras): u
 Versão deste artigo no site: https://www.leotun.com/pt/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-06
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=overseas-access-06) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=overseas-access-06) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=overseas-access-06) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=overseas-access-06) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), oferta permanente

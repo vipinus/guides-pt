@@ -17,7 +17,7 @@ O atendente de IA Bob Esponja (SpongeBob, 海绵宝宝 em chinês) responde 24 h
 |---|---|
 | Não conecta | Windows 11, Cisco conectando no Japão, fica carregando e no fim diz que a conexão expirou, com a Coreia é igual, internet de casa da China Unicom |
 | Muito lento | iPhone com Hiddify, Singapura escolhida, as páginas abrem mas o vídeo fica carregando, principalmente depois das 21h |
-| Como eu faço | Acabei de comprar o plano Família e quero que a TV Xiaomi de casa também use. Tem jeito? |
+| Como eu faço | Acabei de comprar o plano Padrão e quero que a TV Xiaomi de casa também use. Tem jeito? |
 | Perguntar sobre renovação, troca de região e roteador numa mensagem só | Pergunte uma coisa de cada vez e passe para a próxima quando a primeira estiver resolvida |
 
 ## Como fazer ele responder em cada um dos três grupos
@@ -51,4 +51,4 @@ Os endereços de conexão da VPN ficam no site: depois de entrar, clique na band
 - O suporte nunca vai mandar mensagem privada pedindo senha, código de verificação ou pagamento, e nunca vai pedir por iniciativa própria que você instale um programa de controle remoto.
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=troubleshooting-10) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=troubleshooting-10) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=troubleshooting-10) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=troubleshooting-10) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), oferta permanente

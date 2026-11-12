@@ -20,13 +20,13 @@ No sentido contrário, quem está fora da China e precisa acessar serviços chin
 - Pontos fortes dos provedores de linhas: baratos, muitos nós, funcionam assim que você cola um link de assinatura, e quem gosta de mexer em aplicativos curte a liberdade.
 - Pontos fracos dos provedores de linhas: a maioria é de pessoas ou equipes pequenas que alugam máquinas fora da China e revendem tráfego, sem ponto de entrada próprio na China, e a qualidade da saída varia com as linhas alugadas; sumir com o dinheiro, mudar de nome e fechar são coisas comuns, e pagar um ano não garante que você vai usar o ano inteiro; a configuração dos aplicativos fica quase toda por conta do usuário, e ninguém se responsabiliza quando algo dá errado.
 - O que nós fazemos: as máquinas são nossas, e as saídas na China são máquinas nossas, registradas com nome real em provedores de nuvem do continente; uma conta tem seis formas de conexão, e a solução de roteador para a casa toda e o grupo de suporte 24 horas são coisas que os provedores de linhas não têm; operamos de 2006 até hoje, e contas, validade e preços não mudaram antes nem depois da troca de nome.
-- Nossos preços: plano Individual US$ 5 por mês, Família US$ 10, Empresa US$ 20, o que cobre máquinas próprias, seis formas de conexão e o grupo de suporte 24 horas; você só escolhe a região, e por trás de cada região o sistema escolhe a máquina menos ocupada, sem precisar testar velocidade e escolher nós por conta própria.
+- Nossos preços: plano Básico US$ 5 por mês, Padrão US$ 10, Pro US$ 20, e acima disso Elite, Empresa e Supremo (cada um o dobro do anterior), o que cobre máquinas próprias, seis formas de conexão e o grupo de suporte 24 horas; você só escolhe a região, e por trás de cada região o sistema escolhe a máquina menos ocupada, sem precisar testar velocidade e escolher nós por conta própria.
 
 ## Comparado com programas grátis
 
 - Pontos fortes do grátis: não custa nada e serve para uma consulta de vez em quando.
 - Pontos fracos do grátis: a banda de saída no continente é cobrada pelo uso, então um serviço grátis só se sustenta amontoando usuários, limitando a velocidade ou vendendo dados; as extensões de navegador só passam as requisições das páginas, e vídeo, apps e o DNS do sistema não passam por elas; instaladores de origem desconhecida já são um risco por si só, veja "Como identificar apps de VPN arriscados".
-- O que nós fazemos: o teste grátis de 30 minutos não pede cartão de crédito e serve para conferir o serviço; pagar por dia (créditos) é para quem usa de vez em quando; quando um amigo convidado paga, cada um ganha 15 créditos (cerca de 15 dias no plano Individual), uma fonte permanente de tempo grátis.
+- O que nós fazemos: o teste grátis de 30 minutos não pede cartão de crédito e serve para conferir o serviço; pagar por dia (créditos) é para quem usa de vez em quando; quando um amigo convidado paga, cada um ganha 15 créditos (cerca de 15 dias no plano Básico), uma fonte permanente de tempo grátis.
 - Como organizamos: o tempo grátis vem do teste de 30 minutos e dos bônus por convite; para uso contínuo, você paga por mês, por ano ou por dia.
 
 ## Seis formas de conexão, uma conta
@@ -37,8 +37,8 @@ Cada rede tem a forma que funciona melhor nela, por isso você leva as seis: com
 
 ## Regras da conta
 
-- As contas têm três planos, Individual, Família e Empresa, com 2, 4 e 8 aparelhos on-line ao mesmo tempo, respectivamente; regiões, tráfego e formas de conexão são iguais nos três. Não há limite de aparelhos em que você instala, só de conexões simultâneas. Se passar do limite do plano, você pode subir de plano temporariamente (o tempo restante é convertido pelo valor equivalente) e voltar quando terminar.
-- Você pode trocar entre os três planos a qualquer momento, com o tempo restante convertido pelo valor equivalente (Família e Empresa custam 2 e 4 vezes o Individual); os três planos funcionam com roteador, e o Individual basta para uma pessoa só.
+- As contas têm seis planos, Básico, Padrão, Pro, Elite, Empresa e Supremo, com 2, 4, 8, 16, 32 e 64 aparelhos on-line ao mesmo tempo, respectivamente; regiões, tráfego e formas de conexão são iguais em todos. Não há limite de aparelhos em que você instala, só de conexões simultâneas. Se passar do limite do plano, você pode subir de plano temporariamente (o tempo restante é convertido pelo valor equivalente) e voltar quando terminar.
+- Você pode trocar de plano a qualquer momento, com o tempo restante convertido pelo valor equivalente (cada plano custa o dobro do anterior); todos funcionam com roteador, sem limite de velocidade, e o Básico basta para uma pessoa só.
 - O reembolso é proporcional ao tempo usado, pode ser pedido a qualquer momento e é feito manualmente; não prometemos um prazo exato para o dinheiro cair.
 - Velocidade: garantimos YouTube sem travar, mesmo no horário de pico da noite, desde que a sua internet seja boa: China Unicom no norte ou China Telecom no sul. A exceção é a banda larga compartilhada de condomínio (a internet coletiva que alguns prédios na China revendem aos moradores). Se uma região estiver lenta, troque de região ou de forma de conexão.
 - As configurações do Hiddify e do OpenVPN levam os dados da sua conta, e trocar a senha invalida as configurações antigas: se perder o celular ou um link vazar, uma troca de senha recupera tudo, e depois é só importar de novo.
@@ -55,7 +55,7 @@ Cada rede tem a forma que funciona melhor nela, por isso você leva as seis: com
 
 **Por que não oferecem centenas de nós como os provedores de linhas?** Mais nós não significa mais estabilidade. Por trás de cada região nossa há várias máquinas, e ao conectar o sistema escolhe a menos ocupada, sem você precisar testar velocidade e escolher nós; quando um endereço é bloqueado ele é trocado automaticamente, e o endereço no seu aplicativo não precisa mudar.
 
-**Dá para ficar mais barato?** O plano Individual custa US$ 5 por mês, e quanto mais tempo você compra, maior o desconto (5% → 10% → 20%); por dia, com créditos, sai por cerca de US$ 0,36; quando um amigo convidado paga, cada um ganha 15 créditos (cerca de 15 dias no plano Individual), sem limite de pessoas. O cadastro ainda vem com teste grátis de 30 minutos.
+**Dá para ficar mais barato?** O plano Básico custa US$ 5 por mês, e quanto mais tempo você compra, maior o desconto (5% → 10% → 20%); por dia, com créditos, sai por cerca de US$ 0,36; quando um amigo convidado paga, cada um ganha 15 créditos (cerca de 15 dias no plano Básico), sem limite de pessoas. O cadastro ainda vem com teste grátis de 30 minutos.
 
 **Como posso conferir o que vocês dizem?** Pegue o teste de 30 minutos, conecte na região China no horário de pico da noite e assista a um episódio no Tencent Video, conecte numa região de fora e abra o YouTube, e confira a localização registrada do IP e uma página de teste de IPv6. A lista de verificação está em "Como escolher uma VPN para a China".
 
@@ -70,4 +70,4 @@ Cada rede tem a forma que funciona melhor nela, por isso você leva as seis: com
 Versão deste artigo no site: https://www.leotun.com/pt/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-04) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-04) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-04) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-04) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), oferta permanente

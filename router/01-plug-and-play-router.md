@@ -4,7 +4,7 @@
 
 1. **Ligue a energia e o cabo de rede**: conecte a porta WAN do roteador ao seu modem ou roteador atual e espere a luz indicadora estabilizar, cerca de um minuto.
 2. **Conecte-se ao Wi-Fi**: o nome e a senha padrão do Wi-Fi estão impressos no cartão de instruções (o padrão de fábrica dos dois é o domínio do site). Depois de conectar, abra um navegador e vá ao endereço de administração `http://192.168.11.1`.
-3. **Entre na sua conta**: na página de administração, digite o e-mail e a senha da sua conta e salve (contas Individual, Família e Empresa podem usar roteador). A partir daí, todo aparelho conectado a esse Wi-Fi passa pela VPN automaticamente.
+3. **Entre na sua conta**: na página de administração, digite o e-mail e a senha da sua conta e salve (os seis planos pagos podem usar roteador). A partir daí, todo aparelho conectado a esse Wi-Fi passa pela VPN automaticamente.
 
 ## Troque as senhas padrão
 
@@ -17,7 +17,7 @@ O padrão é o roteamento dividido: os domínios chineses da lista passam pela V
 ## Perguntas frequentes
 
 - **A luz indicadora está normal, mas os aparelhos conectados ficam sem internet**: confira o status da conta na página de administração; conta vencida ou senha errada aparecem ali.
-- **Você quer trocar por outro roteador**: desvincule o antigo no site primeiro; veja [Vínculo de MAC e troca de roteador](05-mac-binding-and-replacing.md).
+- **Você quer trocar por outro roteador**: se o limite do plano não foi atingido, o novo conecta direto; se foi, desvincule o antigo no site primeiro; veja [Vínculo de MAC e troca de roteador](05-mac-binding-and-replacing.md).
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-01) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-01) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=router-01) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=router-01) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), oferta permanente

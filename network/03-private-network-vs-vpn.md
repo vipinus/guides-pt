@@ -26,9 +26,9 @@ A seção Rede privada usa o Tailscale, uma ferramenta de rede baseada no WireGu
 
 ## Vencimento e número de aparelhos
 
-O login de cada aparelho segue a data de vencimento da conta; ele fica off-line poucos minutos depois do vencimento, e depois de renovar basta entrar de novo. O número de aparelhos on-line ao mesmo tempo depende do plano (Individual 2, Família 4, Empresa 8) e a cota é dividida com as outras formas de conexão; se passar do limite do plano, você pode subir de plano temporariamente (o tempo restante é convertido pelo valor equivalente) e voltar quando terminar.
+O login de cada aparelho segue a data de vencimento da conta; ele fica off-line poucos minutos depois do vencimento, e depois de renovar basta entrar de novo. O número de aparelhos on-line ao mesmo tempo depende do plano (Básico 2, Padrão 4, Pro 8, Elite 16, Empresa 32, Supremo 64) e a cota é dividida com as outras formas de conexão; se passar do limite do plano, você pode subir de plano temporariamente (o tempo restante é convertido pelo valor equivalente) e voltar quando terminar.
 
 Para os passos de instalação e login, veja o [Guia de aplicativos 05](../client/05-tailscale-private-network.md).
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-03) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-03) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-03) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-03) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), oferta permanente

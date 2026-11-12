@@ -9,7 +9,7 @@ Uma conta LeoTun tem seis formas de conexão: Rede privada (Tailscale), Cisco (A
 - Computador da empresa, sem direitos de administrador: Proxy Web. Você só instala uma extensão no navegador, não precisa de direitos de administrador e não mexe nas configurações de rede da empresa.
 - iPhone, aparelhos antigos: Cisco. Conecta com a VPN embutida no sistema ou com o cliente oficial, sem importar configuração, e tem a melhor compatibilidade.
 - NAS (Synology, QNAP), servidores Linux: OpenVPN. Importe um arquivo .ovpn e ele conecta sozinho ao ligar; a maioria desses aparelhos já vem com cliente embutido.
-- TVs, TV boxes, videogames, o celular de um parente idoso: Roteador. Tudo o que entra no Wi‑Fi passa pela linha, e nada precisa ser instalado no aparelho. Os três planos de conta podem usar.
+- TVs, TV boxes, videogames, o celular de um parente idoso: Roteador. Tudo o que entra no Wi‑Fi passa pela linha, e nada precisa ser instalado no aparelho. Os seis planos pagos podem usar.
 - Muitos aparelhos de uma família inteira ou de um escritório: Roteador, configurado uma vez e valendo para todos; se você também quer acessar o NAS de casa estando fora, acrescente a Rede privada.
 
 ## Pelo ambiente de rede: em que rede você está
@@ -62,7 +62,7 @@ Se um site não abrir com o roteamento dividido, mude primeiro para "Global" tem
 
 **Qual usar para jogos e chamadas de voz?** Hiddify, Rede privada ou Roteador, escolhendo a região com menor latência. O Proxy Web cuida só do navegador; jogos e apps de chamada não passam por ele.
 
-**Dá para usar as seis formas ao mesmo tempo?** Em aparelhos diferentes, dá; todas as formas da mesma conta dividem a cota de aparelhos on-line ao mesmo tempo (Individual 2, Família 4, Empresa 8). Não rode duas formas de aparelho inteiro ao mesmo tempo no mesmo aparelho (por exemplo, Rede privada e Cisco), porque elas vão brigar pelas configurações de rede.
+**Dá para usar as seis formas ao mesmo tempo?** Em aparelhos diferentes, dá; todas as formas da mesma conta dividem a cota de aparelhos on-line ao mesmo tempo (Básico 2, Padrão 4, Pro 8, Elite 16, Empresa 32, Supremo 64). Não rode duas formas de aparelho inteiro ao mesmo tempo no mesmo aparelho (por exemplo, Rede privada e Cisco), porque elas vão brigar pelas configurações de rede.
 
 **Preciso escolher entre roteador e cliente?** Não. Use o roteador em casa e ligue o cliente no celular quando sair; cada um conta como um aparelho.
 
@@ -78,4 +78,4 @@ Se um site não abrir com o roteamento dividido, mude primeiro para "Global" tem
 Versão deste artigo no site: https://www.leotun.com/pt/guides/choose-connection?utm_source=github&utm_content=network-02
 
 ---
-Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-02) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-02) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Individual), oferta permanente
+Organizado pela equipe [LeoTun](https://www.leotun.com/pt?utm_source=github&utm_content=network-02) · Dúvidas? Veja a [página de contato](https://www.leotun.com/pt/contact?utm_source=github&utm_content=network-02) (grupos, e-mail e suporte estão todos lá) · Cadastre-se e ganhe 30 minutos de teste grátis; convide um amigo que pague e cada um ganha 15 créditos (cerca de 15 dias do plano Básico), oferta permanente
